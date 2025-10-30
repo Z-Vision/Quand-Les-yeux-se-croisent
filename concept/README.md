@@ -40,7 +40,7 @@ L’interacteur entre dans l’espace et suit un chemin lumineux tracé au sol q
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
-L’installation de Quand les Yeux se Croisent prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, ponctuée d’un chemin lumineux au sol qui guide le visiteur à travers plusieurs télévisions rétro disposées comme des balises visuelles. Autour d’elles, une brume légère, des fleurs séchées et un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
+L’installation de Quand les Yeux se Croisent prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, ponctuée d’un chemin lumineux au sol qui guide le visiteur à travers plusieurs télévisions rétro disposées comme des balises visuelles. Autour d’elles, une brume légère, des fleurs et un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
 
 L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur. Lorsque ce dernier fixe un écran, son propre regard capté en temps réel s’y reflète, brouillant la limite entre présence physique et image numérique.
 
@@ -102,19 +102,12 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
-[Ambiance de base](./ambiance_de_base.wav)
-[Ambiance 01](./ambiance-1.wav)
-[Ambiance 02](./ambiance-2.wav)
-[Ambiance 03](./ambiance-4.wav)
-
-
-
 <img src="./medias/moodboard.png" 
-     alt="Moodboard" 
+     alt="Pinterest: etherealtimecapsule, katlok.ai, Maeum, 3oey_.xoxo et Mosheh Taffe." 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
     
 **Références** <br>
-Pinterest: etherealtimecapsule, katlok.ai, Maeum, 3oey_.xoxo et Mosheh Taffe.
+Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/.
 
 ***Images inspirantes*** <br>
 Les images présentées évoquent un univers poétique et immersif, mêlant rétro-futurisme et onirisme visuel. Elles s’inspirent de l’esthétique des installations lumineuses et des télévisions rétro empilées, envahies de fleurs, de brume et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
@@ -131,6 +124,10 @@ L’installation combine des télévisions rétro, des plantes artificielles ou 
 ***Ambiance sonore et lumineuse*** <br>
 L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
 
+[Ambiance de base](./ambiance_de_base.wav)
+[Ambiance 01](./ambiance-1.wav)
+[Ambiance 02](./ambiance-2.wav)
+[Ambiance 03](./ambiance-4.wav)
 
 ### Inspirations interactives
 
