@@ -1,6 +1,6 @@
 # Prénom Nom
 
-![](equipe/manel_yaya/photo_manel.jpg)
+![](photo_manel.jpg)
 
 
  <!--
