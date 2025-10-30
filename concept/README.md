@@ -23,6 +23,7 @@
 -->
 
 ## L'expérience
+L’expérience de ***Quand les Yeux se Croisent*** plonge le spectateur dans un espace où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. En se déplaçant entre les écrans, le visiteur se retrouve entouré de regards multiples qui semblent l’observer à leur tour. Lorsqu’il fixe un écran, celui-ci réagit : la vidéo s’interrompt et un œil humain apparaît, établissant un contact direct et troublant. Ce jeu d’échanges visuels crée un dialogue silencieux entre le spectateur et les images, brouillant la frontière entre celui qui regarde et celui qui est regardé. Une bande sonore en loop, neutre et immersive, composée de nappes douces et de textures subtiles, enveloppe l’espace et accentue cette sensation d’être plongé dans un monde suspendu où les regards se répondent.
 
 ### Le parcours de l'interacteur
 
@@ -31,16 +32,26 @@ Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
+**Comportement de l’interacteur**
+
+L’interacteur entre dans l’espace et suit un chemin lumineux tracé au sol qui l’invite à s’approcher progressivement des télévisions rétro disposées dans la salle. Sur les écrans défilent en boucle des regards d’animaux et d’humains, créant une atmosphère à la fois calme et intrigante. Lorsqu’il s’arrête devant une télévision et fixe l’écran, le capteur de regard s’active : la vidéo se transforme et affiche son propre regard en temps réel, capté par une caméra dissimulée. Le spectateur devient alors l’image qu’il observe, pris dans un face-à-face avec lui-même. Après quelques instants, la vidéo initiale reprend, et il poursuit son parcours vers les autres écrans. À travers ce chemin, l’interacteur vit une expérience introspective où son regard, littéralement reflété, s’inscrit au cœur du dispositif et du dialogue entre l’humain, la machine et l’image.
 
 ### L'espace
 
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
+L’installation de Quand les Yeux se Croisent prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, ponctuée d’un chemin lumineux au sol qui guide le visiteur à travers plusieurs télévisions rétro disposées comme des balises visuelles. Autour d’elles, une brume légère, des fleurs séchées et un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
+
+L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur. Lorsque ce dernier fixe un écran, son propre regard capté en temps réel s’y reflète, brouillant la limite entre présence physique et image numérique.
+
+Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel : le spectateur évolue dans un lieu tangible mais traversé par la vie des écrans, où le monde physique et l’univers interactif se répondent et se prolongent mutuellement.
 
 ### La progression
 
 <!--  sur le temps et la progression -->
+
+La progression de ***Quand les Yeux se Croisent*** s’étend sur environ quinze minutes, le temps pour l’interacteur de suivre le **chemin lumineux** qui traverse le grand studio et de vivre une série de rencontres avec les télévisions rétro. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent entre les écrans, puis il s’approche et découvre l’interactivité : chaque fois qu’il fixe un écran, la vidéo réagit et affiche **son propre regard en temps réel**. À mesure qu’il avance, les interactions deviennent plus naturelles et contemplatives, soutenues par une **bande sonore en boucle** qui enveloppe l’espace. Le parcours se termine dans une zone plus calme, où l’interacteur peut rester immobile quelques instants, immergé dans cet échange silencieux entre le réel et le virtuel, avant de quitter l’installation.
 
 ### L'aspect collectif
 
@@ -53,6 +64,10 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
+**L’aspect collectif**
+
+Dans ***Quand les Yeux se Croisent***, le collectif se manifeste à la fois dans le contenu visuel et dans la manière dont les spectateurs vivent l’installation ensemble. Les **regards d’animaux et d’humains** diffusés sur les écrans rappellent les liens instinctifs et sociaux qui unissent les êtres vivants, soulignant la force et la beauté du regard partagé. L’interactivité renforce cette idée : plusieurs personnes peuvent circuler simultanément dans le grand studio, suivre le chemin lumineux et interagir avec les différentes télévisions. Leurs regards se croisent, se répondent et se superposent à ceux projetés sur les écrans, créant un dialogue collectif entre réel et virtuel. Ainsi, le projet ne met pas seulement en scène des images de collectif, il devient lui-même un espace collectif, où les visiteurs participent ensemble à une expérience commune, construite à partir de leurs présences et de leurs interactions partagées.
+
 ### L'aspect social
 
 <!-- 
@@ -63,6 +78,10 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
+
+**L’aspect social**
+
+Le projet ***Quand les Yeux se Croisent*** aborde le social à travers la relation entre l’individu et le regard de l’autre. En plaçant le spectateur face à des regards humains et animaux, puis à son propre regard en temps réel, l’installation met en lumière les mécanismes d’observation, d’identification et de conscience de soi qui structurent la vie en société. Le regard devient ici un symbole des liens invisibles qui unissent les individus, des rapports de réciprocité, d’attention et parfois de jugement présents dans toute interaction sociale. De plus, le fait que plusieurs visiteurs puissent partager l’espace, se croiser et s’observer mutuellement amplifie cette dimension : chacun prend conscience de sa présence parmi les autres, tout en participant à une expérience commune. Le dispositif évoque ainsi la cohabitation, l’interdépendance et la perception mutuelle qui fondent toute organisation sociale, en transposant ces dynamiques dans une expérience artistique et introspective.
 
 ## Inspirations
 
@@ -91,6 +110,9 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 ### Inspirations interactives
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
+J’ai choisi ***Iris*** de Scenocosme comme œuvre similaire parce qu’elle explore, comme mon projet, la relation entre le regard, l’interactivité et la transformation de l’image, plaçant le spectateur au cœur du dispositif artistique.
+<br>
+https://www.scenocosme.com/iris.htm 
 
 
 ## Scénarimage
