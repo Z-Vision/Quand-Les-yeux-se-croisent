@@ -1,7 +1,7 @@
 # Quand les yeux se croisent
 
 <!-- Bannderole / Bande-annonce -->
-![](image_accueil)
+![](image_accueil.png)
 
 
 ## Description
