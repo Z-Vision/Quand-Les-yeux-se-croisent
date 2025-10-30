@@ -93,6 +93,8 @@ Choix de couleurs qui influenceront l’éclairage, les médias projetés, ou l�
 
 Références multimédia
 Vidéos, musiques ou sons, séquences animées qui capturent l’énergie ou la tonalité souhaitée pour l'installation.
+[Ambiance de base](./medias/ambiance_de_base.wav)
+
 
 Textures et matériaux
 Échantillons ou représentations de matériaux tangibles qui seront utilisés dans l'installation (écrans, surfaces tactiles, objets physiques interactifs).
