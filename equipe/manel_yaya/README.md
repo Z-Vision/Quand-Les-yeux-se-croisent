@@ -1,6 +1,6 @@
 # Prénom Nom
 
-![]( https://placehold.co/600x400?text=membre+v)
+![](equipe/manel_yaya/photo_manel.jpg)
 
 
  <!--
