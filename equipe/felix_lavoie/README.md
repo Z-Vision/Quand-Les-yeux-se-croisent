@@ -1,6 +1,6 @@
 # Félix Lavoie
 
-![]( photo_felix)
+![]( photo_felix.jpg)
 
 
  <!--
