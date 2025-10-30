@@ -1,6 +1,6 @@
-# Prénom Nom
+# Félix Lavoie
 
-![]( https://placehold.co/600x400?text=membre+v)
+![]( photo_felix)
 
 
  <!--

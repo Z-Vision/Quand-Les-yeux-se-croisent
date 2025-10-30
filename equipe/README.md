@@ -2,9 +2,9 @@
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* [![Edelwyn Ledru]( https://placehold.co/600x400?text=membre+v)](edelwyn_ledru/)
-* [![Félix Lavoie]( https://placehold.co/600x400?text=membre+v)](felix_lavoie/)
-* [![Jade Hébert]( https://placehold.co/600x400?text=membre+v)](jade_hebert/)
-* [![Manel Yaya]( https://placehold.co/600x400?text=membre+v)](manel_yaya/)
-* [![Patricia Nassif]( https://placehold.co/600x400?text=membre+v)](patricia_nassif/)
+* [![Edelwyn Ledru](photo_edelwyn.jpg)](edelwyn_ledru/)
+* [![Félix Lavoie](photo_felix.jpg)](felix_lavoie/)
+* [![Jade Hébert](photo_jade.jpg)](jade_hebert/)
+* [![Manel Yaya](photo_manel.jpg)](manel_yaya/)
+* [![Patricia Nassif](photo_patricia.jpg)](patricia_nassif/)
 
