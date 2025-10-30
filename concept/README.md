@@ -102,6 +102,7 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
+[Ambiance de base](./medias/ambiance_de_base.wav)
 <img src="./medias/moodboard.png" 
      alt="Moodboard" 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
