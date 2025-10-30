@@ -6,7 +6,7 @@
 
 <!-- Méthode 1 -->
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys"
+  src="https://www.youtube.com/embed/Slo5by2Edac?si=Zk972C17qobhkN21"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
@@ -32,7 +32,6 @@ Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
-**Comportement de l’interacteur**
 
 L’interacteur entre dans l’espace et suit un chemin lumineux tracé au sol qui l’invite à s’approcher progressivement des télévisions rétro disposées dans la salle. Sur les écrans défilent en boucle des regards d’animaux et d’humains, créant une atmosphère à la fois calme et intrigante. Lorsqu’il s’arrête devant une télévision et fixe l’écran, le capteur de regard s’active : la vidéo se transforme et affiche son propre regard en temps réel, capté par une caméra dissimulée. Le spectateur devient alors l’image qu’il observe, pris dans un face-à-face avec lui-même. Après quelques instants, la vidéo initiale reprend, et il poursuit son parcours vers les autres écrans. À travers ce chemin, l’interacteur vit une expérience introspective où son regard, littéralement reflété, s’inscrit au cœur du dispositif et du dialogue entre l’humain, la machine et l’image.
 
@@ -51,7 +50,7 @@ Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel
 
 <!--  sur le temps et la progression -->
 
-La progression de ***Quand les Yeux se Croisent*** s’étend sur environ quinze minutes, le temps pour l’interacteur de suivre le **chemin lumineux** qui traverse le grand studio et de vivre une série de rencontres avec les télévisions rétro. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent entre les écrans, puis il s’approche et découvre l’interactivité : chaque fois qu’il fixe un écran, la vidéo réagit et affiche **son propre regard en temps réel**. À mesure qu’il avance, les interactions deviennent plus naturelles et contemplatives, soutenues par une **bande sonore en boucle** qui enveloppe l’espace. Le parcours se termine dans une zone plus calme, où l’interacteur peut rester immobile quelques instants, immergé dans cet échange silencieux entre le réel et le virtuel, avant de quitter l’installation.
+La progression de ***Quand les Yeux se Croisent*** s’étend sur environ quinze minutes, le temps pour l’interacteur de suivre le chemin lumineux qui traverse le grand studio et de vivre une série de rencontres avec les télévisions rétro. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent entre les écrans, puis il s’approche et découvre l’interactivité : chaque fois qu’il fixe un écran, la vidéo réagit et affiche son propre regard en temps réel. À mesure qu’il avance, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore en boucle qui enveloppe l’espace. Le parcours se termine dans une zone plus calme, où l’interacteur peut rester immobile quelques instants, immergé dans cet échange silencieux entre le réel et le virtuel, avant de quitter l’installation.
 
 ### L'aspect collectif
 
@@ -64,11 +63,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-**L’aspect collectif**
-
-Dans ***Quand les Yeux se Croisent***, le collectif se manifeste à la fois dans le contenu visuel et dans la manière dont les spectateurs vivent l’installation ensemble. Les **regards d’animaux et d’humains** diffusés sur les écrans rappellent les liens instinctifs et sociaux qui unissent les êtres vivants, soulignant la force et la beauté du regard partagé. L’interactivité renforce cette idée : plusieurs personnes peuvent circuler simultanément dans le grand studio, suivre le chemin lumineux et interagir avec les différentes télévisions. Leurs regards se croisent, se répondent et se superposent à ceux projetés sur les écrans, créant un dialogue collectif entre réel et virtuel. Ainsi, le projet ne met pas seulement en scène des images de collectif, il devient lui-même un espace collectif, où les visiteurs participent ensemble à une expérience commune, construite à partir de leurs présences et de leurs interactions partagées.
-
-### L'aspect social
+Dans ***Quand les Yeux se Croisent***, le collectif se manifeste à la fois dans le contenu visuel et dans la manière dont les spectateurs vivent l’installation ensemble. Les regards d’animaux et d’humains diffusés sur les écrans rappellent les liens instinctifs et sociaux qui unissent les êtres vivants, soulignant la force et la beauté du regard partagé. L’interactivité renforce cette idée : plusieurs personnes peuvent circuler simultanément dans le grand studio, suivre le chemin lumineux et interagir avec les différentes télévisions. Leurs regards se croisent, se répondent et se superposent à ceux projetés sur les écrans, créant un dialogue collectif entre réel et virtuel. Ainsi, le projet ne met pas seulement en scène des images de collectif, il devient lui-même un espace collectif, où les visiteurs participent ensemble à une expérience commune, construite à partir de leurs présences et de leurs interactions partagées.
 
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL 
@@ -79,7 +74,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-**L’aspect social**
+### L’aspect social
 
 Le projet ***Quand les Yeux se Croisent*** aborde le social à travers la relation entre l’individu et le regard de l’autre. En plaçant le spectateur face à des regards humains et animaux, puis à son propre regard en temps réel, l’installation met en lumière les mécanismes d’observation, d’identification et de conscience de soi qui structurent la vie en société. Le regard devient ici un symbole des liens invisibles qui unissent les individus, des rapports de réciprocité, d’attention et parfois de jugement présents dans toute interaction sociale. De plus, le fait que plusieurs visiteurs puissent partager l’espace, se croiser et s’observer mutuellement amplifie cette dimension : chacun prend conscience de sa présence parmi les autres, tout en participant à une expérience commune. Le dispositif évoque ainsi la cohabitation, l’interdépendance et la perception mutuelle qui fondent toute organisation sociale, en transposant ces dynamiques dans une expérience artistique et introspective.
 
@@ -105,13 +100,34 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
+<img src="./medias/moodboard.png" 
+     alt="Moodboard" 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+    
+**Références** <br>
+Pinterest: etherealtimecapsule, katlok.ai, Maeum, 3oey_.xoxo et Mosheh Taffe.
+
+***Images inspirantes*** <br>
+Les images présentées évoquent un univers poétique et immersif, mêlant rétro-futurisme et onirisme visuel. Elles s’inspirent de l’esthétique des installations lumineuses et des télévisions rétro empilées, envahies de fleurs, de brume et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
+
+***Palette de couleurs*** <br>
+La palette se compose de tons pastels saturés : roses, mauves, turquoises et dorés diffus. Ces teintes évoquent la douceur, la nostalgie et une atmosphère suspendue entre le réel et l’imaginaire.
+
+***Références multimédia*** <br>
+Les références sonores et visuelles s’inspirent d’ambiances électro-acoustiques immersives, de compositions en boucle, ainsi que d’univers visuels proches de l’art numérique contemplatif.
+
+***Textures et matériaux*** <br>
+L’installation combine des télévisions rétro, des plantes artificielles ou séchées, des fils lumineux, et des surfaces légèrement miroitantes qui captent la lumière. Ces textures participent à la fusion entre organique et synthétique, entre passé et futur.
+
+***Ambiance sonore et lumineuse*** <br>
+L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
 
 
 ### Inspirations interactives
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 J’ai choisi ***Iris*** de Scenocosme comme œuvre similaire parce qu’elle explore, comme mon projet, la relation entre le regard, l’interactivité et la transformation de l’image, plaçant le spectateur au cœur du dispositif artistique.
-<br>
+<br><br>
 https://www.scenocosme.com/iris.htm 
 
 
