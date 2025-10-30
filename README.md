@@ -3,6 +3,7 @@
 <!-- Bannderole / Bande-annonce -->
 ![](image_accueil.png)
 
+
 ## Description
 
 Quand les Yeux se Croisent est une installation multimédia immersive où des télévisions rétro diffusent des images de yeux d'animaux et d'humains qui alternent et réagissent aux regards des spectateurs, transformant l’expérience visuelle et sonore en un dialogue poétique entre l’individu, le groupe et la faune.
