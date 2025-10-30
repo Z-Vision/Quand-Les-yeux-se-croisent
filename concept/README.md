@@ -93,7 +93,7 @@ Choix de couleurs qui influenceront l’éclairage, les médias projetés, ou l�
 
 Références multimédia
 Vidéos, musiques ou sons, séquences animées qui capturent l’énergie ou la tonalité souhaitée pour l'installation.
-[Ambiance de base](./medias/ambiance_de_base.wav)
+
 
 
 Textures et matériaux
@@ -141,6 +141,10 @@ https://www.scenocosme.com/iris.htm
 
 
 ## Scénarimage
+<img src="./concept/scenarimage.png" 
+     alt="scenarimage" 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+    
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
