@@ -2,18 +2,18 @@
 
 ## Scénarisation de l'interactivité
 
+### Scène au repos
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Au repos | NA | Les télévisons alternent entre des yeux d'animaux, la lumière est méditative et captivante | Une musique de fond organique légère boucle, combibnée avec des légers effets sonores d'animaux | NA |
+
 ### Scène 1
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Au repos | NA | Regards Animaux, Ambiance alternante  | musique fond + bruitages  | NA |
-
-### Scène 2 "Commencement"
-
-| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
-|------------|------------|------------|------------|------------|
-| Entrer | Tapis | Empreintes d'animaux sur le tapis | musique fond + bruitages  | NA |
-| Se déplacer  | Le faisceau lumineux  | regards animaux / yeux humains  | Valeur B4  | L'installation "reconnait" et passe à la scène 3  |
+| Entrer | Le visiteur se fait guider vers l'exposition par un tapis | Des empreintes d'animaux sur le tapis indiquent la direction | Une musique de fond organique légère boucle  | NA |
+| Se déplacer  | S'approche du faisceau lumineux qui invitent le visiteur à se positioné davant une télévison | regards animaux / yeux humains  | Valeur B4  | L'installation "reconnait" et passe à la scène 3  |
 
 ### Scène 3 "interaction"
 
