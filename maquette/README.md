@@ -2,11 +2,31 @@
 
 ## Scénarisation de l'interactivité
 
-| Colonne 1 | Colonne 2 | Colonne 3 | Colonne 4 | Colonne 5 |
+### Scène 1
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Valeur A1  | Valeur A2  | Valeur A3  | Valeur A4  | Valeur A5  |
-| Valeur B1  | Valeur B2  | Valeur B3  | Valeur B4  | Valeur B5  |
-| Valeur C1  | Valeur C2  | Valeur C3  | Valeur C4  | Valeur C5  |
+| Au repos | NA | Regards Animaux, Ambiance alternante  | musique fond + bruitages  | NA |
+
+### Scène 2 "Commencement"
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Entrer | Tapis | Empreintes d'animaux sur le tapis | musique fond + bruitages  | NA |
+| Se déplacer  | Le faisceau lumineux  | regards animaux / yeux humains  | Valeur B4  | L'installation "reconnait" et passe à la scène 3  |
+
+### Scène 3 "interaction"
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Gesticuler | capteur de mouvement | Regards bouge + lumières dégradent | musique fond + bruitages  | L'installation traduit geste en visuel et lumière |
+| Se déplacer | capteur perdent présence de l'intéracteur  | regard humains / regards animaux  |  musique fond + bruitages  | fin cycle puis passe à la scène 4  |
+
+### Scène 3 "interaction"
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Quitter | inactivité personne | lumières changent en fonction de la couleur de l'oeil | musique fond + bruitages  | Passe à la scène 1 |
 
 ## Équipements
 
