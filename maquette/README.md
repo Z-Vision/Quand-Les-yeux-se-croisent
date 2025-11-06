@@ -29,55 +29,23 @@
 | Quitter | inactivité personne | lumières changent en fonction de la couleur de l'oeil | musique fond + bruitages  | Passe à la scène 1 |
 
 ## Équipements
-
-## 🖥️ Équipements informatiques
-- Ordinateur de bureau
-- Ordinateur portable
-- Tablette électronique
-- Serveur
-- Écran / moniteur
-- Clavier
-- Souris
-- Imprimante
-- Scanner
-- Disque dur externe
-- Clé USB
-- Routeur / modem
-- Casque audio
-- Microphone
-- Webcam
-- Station d’accueil (dock)
-- Onduleur (UPS)
-
+- Télévisions cathodique (x4)
+- Guirllande de lumière (x1)
+- Bouquet fleurs blanches (x6)
+- Tapis noir et blanc (x4)
+- Lumières LED (x6)
+- Camera (x1)
+- Ordinateur (x1)
+- Spotlight (x4)
+- Speaker (x2)
+- Projecteur (x2)
+- Coaxial cable (x4)
+- Caxial to HDMI (x4)
+- Cable DNX (x2)
+- Cable HDMI (x7)
+- Multi prise (x4)
 ---
 
-## 🧪 Équipements de laboratoire
-- Microscope
-- Balance de précision
-- Centrifugeuse
-- Hotte chimique
-- Agitateur magnétique
-- Bain-marie
-- Pipettes et micropipettes
-- Spectrophotomètre
-- Verrerie de laboratoire (béchers, éprouvettes, fioles)
-- Réfrigérateur / congélateur de laboratoire
-- Enceinte climatique
-- Analyseur automatique
-
----
-
-## ⚙️ Équipements mécaniques / industriels
-- Tour à métaux
-- Fraiseuse
-- Scie à ruban
-- Presse hydraulique
-- Compresseur d’air
-- Poste à souder
-- Établi
-- Outils manuels (marteaux, tournevis, clés, pinces, etc.)
-- Système de ventilation industrielle
-- Balance industrielle
 
 ## Logiciels
 ## Synoptique
