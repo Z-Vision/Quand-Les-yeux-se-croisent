@@ -6,7 +6,6 @@
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-<<<<<<< HEAD
 | Entrer | Le visiteur se fait guider vers l'exposition par un tapis | Des empreintes d'animaux sur le tapis indiquent la direction | Une musique de fond organique légère boucle  | NA |
 | Se déplacer  | S'approche du faisceau lumineux qui invitent le visiteur à se positioné davant une télévison | Les vidéos des regards animaux se transforment en yeux humains  | La même musique de fond joue, en y incluant maintenant des textures sonores d'animaux | L'installation "reconnait" la présence du visiteur et passe à la scène 2  |
 
@@ -16,18 +15,8 @@
 |------------|------------|------------|------------|------------|
 | Gesticuler | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du joueurs avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
 | Se déplacer | Capteurs perdent la présence de l'intéracteur après un certain temps | Les regards humains se transforme en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux | Fin du cycle - passe à la scène 3  |
-=======
-| Au repos | NA | Regards Animaux, Ambiance alternante  | musique fond + bruitages  | NA |
 
-### Scène 2 "Commencement"
-
-| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
-|------------|------------|------------|------------|------------|
-| Entrer | Tapis | Empreintes d'animaux sur le tapis | musique fond + bruitages  | NA |
-| Se déplacer  | Le faisceau lumineux  | regards animaux / yeux humains  | Valeur B4  | L'installation "reconnait" et passe à la scène 3  |
->>>>>>> a42afbe20a0ef8f23bebd3e030234a891f33c948
-
-### Scène 3 "interaction"
+### Scène 3 
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
