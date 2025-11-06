@@ -23,7 +23,7 @@
 -->
 
 ## L'expérience
-L’expérience de ***Quand les Yeux se Croisent*** plonge le spectateur dans un espace où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. En se déplaçant entre les écrans, le visiteur se retrouve entouré de regards multiples qui semblent l’observer à leur tour. Lorsqu’il fixe un écran, celui-ci réagit : la vidéo s’interrompt et un œil humain apparaît, établissant un contact direct et troublant. Ce jeu d’échanges visuels crée un dialogue silencieux entre le spectateur et les images, brouillant la frontière entre celui qui regarde et celui qui est regardé. Une bande sonore en loop, neutre et immersive, composée de nappes douces et de textures subtiles, enveloppe l’espace et accentue cette sensation d’être plongé dans un monde suspendu où les regards se répondent.
+L’expérience de ***Quand les Yeux se Croisent*** plonge le spectateur dans un espace où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. En se déplaçant entre les écrans, le visiteur se retrouve entouré de regards multiples qui semblent l’observer à leur tour. Lorsqu’il fixe un écran, celui-ci réagit : la vidéo s’interrompt et un œil humain apparaît. Ce dernier bouge son iris en fonction du déplacement du spectateur, se qui affectent aussi l'intensité des lumières, établissant un contact direct et troublant. Ce jeu d’échanges visuels crée un dialogue silencieux entre le spectateur et les images, brouillant la frontière entre celui qui regarde et celui qui est regardé. Une bande sonore en loop, neutre et immersive, composée de nappes douces et de textures subtiles, enveloppe l’espace et accentue cette sensation d’être plongé dans un monde suspendu où les regards se répondent.
 
 ### Le parcours de l'interacteur
 
@@ -33,7 +33,7 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et suit un chemin lumineux tracé au sol qui l’invite à s’approcher progressivement des télévisions rétro disposées dans la salle. Sur les écrans défilent en boucle des regards d’animaux et d’humains, créant une atmosphère à la fois calme et intrigante. Lorsqu’il s’arrête devant une télévision et fixe l’écran, le capteur de regard s’active : la vidéo se transforme et affiche son propre regard en temps réel, capté par une caméra dissimulée. Le spectateur devient alors l’image qu’il observe, pris dans un face-à-face avec lui-même. Après quelques instants, la vidéo initiale reprend, et il poursuit son parcours vers les autres écrans. À travers ce chemin, l’interacteur vit une expérience introspective où son regard, littéralement reflété, s’inscrit au cœur du dispositif et du dialogue entre l’humain, la machine et l’image.
+L’interacteur entre dans l’espace et suit un chemin lumineux tracé au sol qui l’invite à s’approcher progressivement des télévisions rétro disposées dans la salle. Sur les écrans défilent en boucle des regards d’animaux et d’humains, créant une atmosphère à la fois calme et intrigante. Lorsqu’il s’arrête sous un projecteur, il fait face à une télévision; un caméra capte qui son regard s’active et la vidéo se transforme et affiche son propre regard en temps réel. Le spectateur devient alors l’image qu’il observe, pris dans un face-à-face avec lui-même. Il peut effectuer un déplacement de gauche à droite, ce déplacement est suivis par l'iris virtuel, et affecte l'intensité des barres lumineuses. Après quelques instants, la vidéo initiale reprend, et il poursuit son parcours vers les autres écrans. À travers ce chemin, l’interacteur vit une expérience introspective où son regard, littéralement reflété, s’inscrit au cœur du dispositif et du dialogue entre l’humain, la machine et l’image.
 
 ### L'espace
 
@@ -119,10 +119,10 @@ La palette se compose de tons pastels saturés. Ces teintes évoquent la douceur
 Les références sonores et visuelles s’inspirent d’ambiances électro-acoustiques immersives, de compositions en boucle, ainsi que d’univers visuels proches de l’art numérique contemplatif.
 
 ***Textures et matériaux*** <br>
-L’installation combine des télévisions rétro, des plantes artificielles et des surfaces légèrement miroitantes qui captent la lumière. Ces textures participent à la fusion entre organique et synthétique, et est directement lier à notre thème qui est axé sur le regard.
+L’installation combine des télévisions rétro, des plantes artificielles et des lumières LED. Ces textures participent à la fusion entre organique et synthétique, et est directement lier à notre thème qui est axé sur le regard.
 
 ***Ambiance sonore et lumineuse*** <br>
-L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
+L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante grâce à l'interaction du spectateur, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
 
 [Ambiance de base](./ambiance_de_base.wav)
 [Ambiance 01](./ambiance-1.wav)
