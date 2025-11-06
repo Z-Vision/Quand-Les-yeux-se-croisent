@@ -44,6 +44,8 @@
 - Cable DNX (x2)
 - Cable HDMI (x7)
 - Multi prise (x4)
+- carte de son (x1)
+- multiplexeur hdmi (x1)
 ---
 
 ## Logiciels
