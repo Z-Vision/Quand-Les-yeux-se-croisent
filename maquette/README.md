@@ -51,6 +51,9 @@
 - Hyper HDR
 ---
 ## Synoptique
+
+![](plan_fils.png)
+
 ## Budget estimé
 - Télévisions cathodique (x2 75$/px)
 - Guirllande de lumière (x1 20$/px)
