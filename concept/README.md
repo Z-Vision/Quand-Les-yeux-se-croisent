@@ -122,7 +122,7 @@ Les références sonores et visuelles s’inspirent d’ambiances électro-acous
 L’installation combine des télévisions rétro, des plantes artificielles et des lumières LED. Ces textures participent à la fusion entre organique et synthétique, et est directement lier à notre thème qui est axé sur le regard.
 
 ***Ambiance sonore et lumineuse*** <br>
-L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante grâce à l'interaction du spectateur, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
+L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, changeante grâce à l'interaction du spectateur, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
 
 [Ambiance de base](./ambiance_de_base.wav)
 [Ambiance 01](./ambiance-1.wav)
