@@ -6,21 +6,27 @@
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Entrer | Le visiteur se fait guider vers l'exposition par un tapis | Des empreintes d'animaux sur le tapis indiquent la direction | Une musique de fond organique légère boucle  | NA |
-| Se déplacer  | S'approche du faisceau lumineux qui invitent le visiteur à se positioné devant une télévison | Les vidéos des regards d'animaux se transforment en yeux d'humains et les lumières changent de couleur | La même musique de fond joue, en y incluant maintenant des textures sonores d'animaux | L'installation "reconnait" la présence du visiteur et passe à la scène 2  |
+| Au repos | NA | Regards Animaux, Ambiance alternante  | musique fond + bruitages  | NA |
 
-### Scène 2
-
-| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
-|------------|------------|------------|------------|------------|
-| Gesticuler | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du visiteur avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
-| Se déplacer | Capteurs perdent la présence de l'intéracteur après un certain temps | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux | Fin du cycle - passe à la scène 3  |
-
-### Scène 3 
+### Scène 2 "Commencement"
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Quitter | Inactivité totale | Les télévisons alternent entre des yeux d'animaux et les yeux d'humains déjà enregistrés | La même musique de fond joue avec les textures sonores d'animaux  | Passe à la scène 1 |
+| Entrer | Tapis | Empreintes d'animaux sur le tapis | musique fond + bruitages  | NA |
+| Se déplacer  | Le faisceau lumineux  | regards animaux / yeux humains  | Valeur B4  | L'installation "reconnait" et passe à la scène 3  |
+
+### Scène 3 "interaction"
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Gesticuler | capteur de mouvement | Regards bouge + lumières dégradent | musique fond + bruitages  | L'installation traduit geste en visuel et lumière |
+| Se déplacer | capteur perdent présence de l'intéracteur  | regard humains / regards animaux  |  musique fond + bruitages  | fin cycle puis passe à la scène 4  |
+
+### Scène 3 "interaction"
+
+| Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
+|------------|------------|------------|------------|------------|
+| Quitter | inactivité personne | lumières changent en fonction de la couleur de l'oeil | musique fond + bruitages  | Passe à la scène 1 |
 
 ## Équipements
 - Télévisions cathodique (x4)
@@ -40,6 +46,7 @@
 - Multi prise (x4)
 - Carte de son (x1)
 - Multiplexeur HDMI (x1)
+- Coton de décoration
 ---
 
 ## Logiciels
@@ -47,6 +54,7 @@
 - Pure Data
 - Visual Studio Code
 - Hyper HDR
+- Reaper
 ---
 ## Synoptique
 ## Budget estimé
