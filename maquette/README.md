@@ -13,10 +13,10 @@
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Déplacer/tourner la tête | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du visiteur avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
+| Rester en place | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du visiteur avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
 | Se déplacer | Capteurs perdent la présence de l'intéracteur après un certain temps | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux et un son quand il ne capte plus la personne | Fin du cycle - passe à la scène 3  |
 | Reste trop longtemps | Une fois que l'interacteur reste plus de 2min | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial, jusqu'à temps qu'elle part | La même musique de fond joue avec les textures sonores d'animaux et un son quand le temps atteint 2min | Fin du cycle - passe à la scène 3  |
-| Plusieurs personnes présentes | Capteurs perdent la présence de l'intéracteur après un certain temps | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux et un son quand il ne capte plus la personne | L'installation traduit les gestes en visuels et lumières  |
+| Plusieurs personnes présentes | Mouvements captés de la première personne captée | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux et un son quand il ne capte plus la personne | L'installation traduit les gestes en visuels et lumières  |
 
 ### Scène 3 
 
