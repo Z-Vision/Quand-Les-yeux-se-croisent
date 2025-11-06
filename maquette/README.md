@@ -13,7 +13,7 @@
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Gesticuler | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du visiteur avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
+| Déplacer/tourner la tête | Mouvements captés par les capteurs | Les yeux bougent selon les mouvement du visiteur et les lumières LED dégradent selon la proximité du visiteur avec celles-ci | La même musique de fond joue avec les textures sonores d'animaux  | L'installation traduit les gestes en visuels et lumières |
 | Se déplacer | Capteurs perdent la présence de l'intéracteur après un certain temps | Les regards humains se transforment en animaux et les lumières redeviennent à leur état initial | La même musique de fond joue avec les textures sonores d'animaux | Fin du cycle - passe à la scène 3  |
 
 ### Scène 3 
