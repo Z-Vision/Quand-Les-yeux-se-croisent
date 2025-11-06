@@ -19,7 +19,7 @@
 
 | Verbe action | Condition de déclenchement| Effet visuel | Effet sonore | Effet interactif |
 |------------|------------|------------|------------|------------|
-| Gesticuler | capteur de mouvement | Regards bouge + lumières dégradent | musique fond + bruitages  | L'installation traduit geste en visuel et lumière |
+| Se déplacer | capteur de mouvement | Regards bouge + lumières dégradent | musique fond + bruitages  | L'installation traduit geste en visuel et lumière |
 | Se déplacer | capteur perdent présence de l'intéracteur  | regard humains / regards animaux  |  musique fond + bruitages  | fin cycle puis passe à la scène 4  |
 
 ### Scène 3 "interaction"
