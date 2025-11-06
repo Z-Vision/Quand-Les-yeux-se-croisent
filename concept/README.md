@@ -110,16 +110,16 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/.
 
 ***Images inspirantes*** <br>
-Les images présentées évoquent un univers poétique et immersif, mêlant rétro-futurisme et onirisme visuel. Elles s’inspirent de l’esthétique des installations lumineuses et des télévisions rétro empilées, envahies de fleurs, de brume et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
+Les images sur lesquelles nous avons porté notre insipirations évoquent un univers poétique et immersif, en raison de l'aspect floral et des télévisions rétros. Ces images s’inspirent de l’esthétique d'installations lumineuses envahies de fleurs et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
 
 ***Palette de couleurs*** <br>
-La palette se compose de tons pastels saturés : roses, mauves, turquoises et dorés diffus. Ces teintes évoquent la douceur, la nostalgie et une atmosphère suspendue entre le réel et l’imaginaire.
+La palette se compose de tons pastels saturés. Ces teintes évoquent la douceur, le rêve et une atmosphère suspendue entre le réel et l’imaginaire.
 
 ***Références multimédia*** <br>
 Les références sonores et visuelles s’inspirent d’ambiances électro-acoustiques immersives, de compositions en boucle, ainsi que d’univers visuels proches de l’art numérique contemplatif.
 
 ***Textures et matériaux*** <br>
-L’installation combine des télévisions rétro, des plantes artificielles ou séchées, des fils lumineux, et des surfaces légèrement miroitantes qui captent la lumière. Ces textures participent à la fusion entre organique et synthétique, entre passé et futur.
+L’installation combine des télévisions rétro, des plantes artificielles et des surfaces légèrement miroitantes qui captent la lumière. Ces textures participent à la fusion entre organique et synthétique, et est directement lier à notre thème qui est axé sur le regard.
 
 ***Ambiance sonore et lumineuse*** <br>
 L’ambiance sonore repose sur des sons organiques et synthétiques créant une neutralité émotionnelle, tandis que la lumière, vaporeuse et changeante, accentue la dimension immersive. Ensemble, ces éléments construisent une atmosphère méditative et captivante, où le spectateur se sent transporté dans un espace-temps suspendu.
@@ -132,7 +132,7 @@ L’ambiance sonore repose sur des sons organiques et synthétiques créant une 
 ### Inspirations interactives
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
-J’ai choisi ***Iris*** de Scenocosme comme œuvre similaire parce qu’elle explore, comme mon projet, la relation entre le regard, l’interactivité et la transformation de l’image, plaçant le spectateur au cœur du dispositif artistique.
+le projet ***Iris*** de Scenocosme est une œuvre qui a inspiré le projet parce qu’elle explore elle ausssi la relation entre le regard, l’interactivité et la transformation de l’image, plaçant le spectateur au cœur du dispositif artistique.
 <br><br>
 https://www.scenocosme.com/iris.htm 
 
