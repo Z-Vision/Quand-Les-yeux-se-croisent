@@ -47,7 +47,10 @@
 ---
 
 ## Logiciels
-- 
+- Touch Designer
+- Pure Data
+- Visual Studio Code
+- Hyper HDR
 ---
 ## Synoptique
 ## Budget estimé
