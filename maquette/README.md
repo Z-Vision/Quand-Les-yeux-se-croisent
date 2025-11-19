@@ -63,6 +63,15 @@
 
 ![](plan_fils.png)
 
+## Plan d'implantation
+
+Plan d'implantation 2D
+
+![](plan_plantation_01.png)
+![](plan_plantation_02.png)
+
+Plan d'implantation 3D
+
 ## Budget estimé
 
 - Télévisions cathodique (x2 75$/px)
