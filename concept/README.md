@@ -140,6 +140,11 @@ le projet **_Iris_** de Scenocosme est une œuvre qui a inspiré le projet parce
 <br><br>
 https://www.scenocosme.com/iris.htm
 
+<br>
+Le projet TV Garden de Nam June Paik a inspiré la démarche en montrant comment des téléviseurs rétro peuvent devenir des éléments vivants d’un paysage. En mêlant images vidéo et environnement naturel, l’installation place le visiteur au centre d’un écosystème où technologie et nature se répondent, transformant sa perception de l’espace.
+<br><br>
+
+<img src="./tv_garden.jpg">
 ## Scénarimage
 
 <img src="./concept/scenarimage.png" 
