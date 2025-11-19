@@ -26,7 +26,7 @@
 
 | Verbe action | Condition de déclenchement | Effet visuel                                                                                                                                                                                                                                 | Effet sonore                                                     | Effet interactif   |
 | ------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------ |
-| Quitter      | Inactivité totale          | Les télévisons alternent entre des yeux d'animaux et les yeux d'humains déjà enregistrés et les lumières redeviennent à leur état initial, c'est-à-dire des couleurs distinctes qui ont une légère animation s'apparentant à une respiration | La même musique de fond joue avec les textures sonores d'animaux | Passe à la scène 1 |
+| Quitter      | Inactivité totale          | Les télévisons alternent entre des yeux d'animaux et les yeux d'humains déjà enregistrés et les lumières redeviennent à leur état initial, c'est-à-dire des couleurs distinctes qui ont une légère animation s'apparentant à une respiration | La même musique de fond joue avec un son de respiration | Passe à la scène 1 |
 
 ## Équipements
 
