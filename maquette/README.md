@@ -64,18 +64,21 @@
 ![](plan_fils.png)
 
 ## Plan d'implantation
+![](studios.svg)
 
-Plan d'implantation 2D
+Plans d'implantation 2D
 
 ![](plan_plantation_01.png)
 ![](plan_plantation_02.png)
 
 Plan d'implantation 3D
 
+![](plan_plantation_3D.png)
+
 ## Budget estimé
 
 - Télévisions cathodique (x2 75$/px)
-- Guirllande de lumière (x1 20$/px)
+- Lumières suspendues (x1 20$/px)
 - Bouquet fleurs blanches (x6 21$/px)
 - Tapis noir et blanc (x4 30$/px)
 - Total: 416$ (avant tax)
