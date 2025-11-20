@@ -36,6 +36,8 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 L’interacteur entre dans l’espace et suit un chemin déterminé par un tapis au sol qui l’invite à s’approcher progressivement des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne un regard humain puis celui d’un animal de manière continue. Ce morphing prend la forme d’une vague circulaire qui traverse l’image, accompagné d’une dégradation en pixels rappelant des cristaux, tandis que de légères distorsions glitch conservent l’esthétique rétro des téléviseurs d’époque. L’ensemble crée une atmosphère à la fois calme, étrange et hypnotique.
 
+![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
+
 Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme grâce à un effet de métamorphose légèrement glitché qui affiche son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions et il se retrouve dans un face-à-face direct avec lui-même. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité des barres lumineuses autour de lui. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
 Après quelques instants, la séquence initiale des yeux humains et animaux reprend tout en intégrant désormais le regard de l’interacteur à la collection en boucle. À travers ce parcours, il vit une expérience introspective où son propre regard, absorbé par le dispositif, devient une partie du dialogue sensible entre l’humain, les animaux, la machine et l’image.
@@ -51,6 +53,10 @@ L’installation de **Quand les Yeux se Croisent** prend place dans le grand stu
 L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur. Lorsque ce dernier se positionne devant les écrans, son propre regard capté en temps réel s’y reflète, brouillant la limite entre présence physique et image numérique.
 
 Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel : le spectateur évolue dans un lieu tangible mais traversé par la vie des écrans, où le monde physique et l’univers interactif se répondent et se prolongent mutuellement.
+
+<img src="concept\studios.svg" 
+     alt="Plan du grand studio" 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
 
 ### La progression
 
@@ -146,15 +152,26 @@ https://www.scenocosme.com/iris.htm
 
 <br>
 
+<img src="concept\inspo_01.png" 
+     alt="Iris" 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+
+
 Le projet **_TV Garden_** de Nam June Paik a inspiré la démarche en montrant comment des téléviseurs rétro peuvent devenir des éléments vivants d’un paysage. En mêlant images vidéo et environnement naturel, l’installation place le visiteur au centre d’un écosystème où technologie et nature se répondent, transformant sa perception de l’espace.
 <br><br>
 
 https://www.guggenheim.org/artwork/9537
 
+<br>
+
+<img src="concept\inspo_02.png" 
+     alt="TV Garden" 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+
 ## Scénarimage
 
 <img src="./concept/scenarimage.png" 
-     alt="scenarimage" 
+     alt="Scénarimage" 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
 
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
