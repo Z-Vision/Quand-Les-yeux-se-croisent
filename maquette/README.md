@@ -30,30 +30,36 @@
 
 ## Équipements
 
-- Télévisions cathodique (x4)
-- Lumières ampoules (x6)
-- Bouquet fleurs blanches (x6)
-- Tapis noir et blanc (x4)
-- Lumières LED (x2)
-- Camera (x1)
-- Ordinateur (x1)
-- Spotlight (x1)
-- Lumières DNX (x2)
-- Haut-parleur (x2)
-- Projecteur (x1 (ajout ++))
-- Coaxial cable (x4)
-- Caxial to HDMI (x4)
-- Cable DNX (x2)
-- Cable HDMI (x7)
-- Multi prise (x4)
-- Carte de son (x1)
-- Multiplexeur HDMI (x1)
+**Équipement audiovisuel**
+- Télévisions cathodiques ×4
+- Caméra ×1
+- Ordinateur ×1
+- Haut-parleurs ×2
+- Carte de son ×1
+- Multiplexeur HDMI ×1
+
+**Éclairage**
+- Ampoules lumineuses ×6
+- Lumières LED ×2
+- Lumières DMX ×2
+- Spotlight ×1
+
+**Accessoires et décor**
+- Bouquets de fleurs blanches ×6
+- Tapis noir et blanc ×4
+
+**Câblage**
+- Câbles coaxiaux ×4
+- Adaptateurs coaxial vers HDMI ×4
+- Câbles DMX ×2
+- Câbles HDMI ×7
+- Multiprises ×4
 
 ---
 
 ## Logiciels
 
-- Touch Designer
+- Touch Designer (Media Pipe)
 - Pure Data
 - Visual Studio Code
 - Hyper HDR
