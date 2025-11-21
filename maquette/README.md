@@ -31,29 +31,37 @@
 ## Équipements
 
 **Équipement audiovisuel**
-- Télévisions cathodiques ×4
-- Caméra ×1
-- Ordinateur ×1
-- Haut-parleurs ×2
-- Carte de son ×1
-- Multiplexeur HDMI ×1
+| Nom | Disponibilité | Quantité |
+|-------------------------|---------------|----------|
+| Télévision cathodique | X | 4 |
+| Caméra | ✔ | 1 |
+| Ordinateur | ✔ | 1 |
+| Haut-parleurs | ✔ | 2 |
+| Carte de son | ✔ | 1 |
+| Multiplexeur HDMI | X | 1 |
 
 **Éclairage**
-- Ampoules lumineuses ×6
-- Lumières LED ×2
-- Lumières DMX ×2
-- Spotlight ×1
+| Nom | Disponibilité | Quantité |
+|--------------------|---------------|----------|
+| Ampoule lumineuse | X | 6 |
+| Lumière LED | ✔ | 2 |
+| Lumière DMX | ✔ | 2 |
+| Spotlight | ✔ | 1 |
 
 **Accessoires et décor**
-- Bouquets de fleurs blanches ×6
-- Tapis noir et blanc ×4
+| Nom | Disponibilité | Quantité |
+|-----------------------------|---------------|----------|
+| Bouquet de fleurs blanches | ✔ | 6 |
+| Tapis noir et blanc | X | 4 |
 
 **Câblage**
-- Câbles coaxiaux ×4
-- Adaptateurs coaxial vers HDMI ×4
-- Câbles DMX ×2
-- Câbles HDMI ×7
-- Multiprises ×4
+| Nom | Disponibilité | Quantité |
+|-------------------------------|---------------|----------|
+| Câble coaxial | ✔ | 4 |
+| Adaptateur coaxial vers HDMI | X | 4 |
+| Câble DMX | ✔ | 2 |
+| Câble HDMI | ✔ | 7 |
+| Multiprise | X | 4 |
 
 ---
 
