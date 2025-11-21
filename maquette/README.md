@@ -67,10 +67,24 @@
 
 ## Logiciels
 
-- Touch Designer (Media Pipe)
-- Pure Data
-- Visual Studio Code
-- Hyper HDR
+### - Touch Designer
+
+Créer des expériences visuelles interactives avec Media Pipe  
+Générer des animations en temps réel  
+Connecter des capteurs ou données externes avec OSC
+
+### - Pure Data
+
+Concevoir des systèmes audio interactifs avec OSC  
+Gérer des interactions basées avec les lumières avec OSC
+
+### - Visual Studio Code
+
+Traduire les données réçues des capteurs en OSC
+
+### - Hyper HDR
+
+Gérer des interactions avec les lumières avec OSC
 
 ---
 
