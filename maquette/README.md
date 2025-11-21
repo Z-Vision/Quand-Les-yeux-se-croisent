@@ -43,7 +43,7 @@
 **Éclairage**
 | Nom | Disponibilité | Quantité |
 |--------------------|---------------|----------|
-| Ampoule lumineuse | X | 6 |
+| Ampoule lumineuse | ✔ | 6 |
 | Lumière LED | ✔ | 2 |
 | Lumière DMX | ✔ | 2 |
 | Spotlight | ✔ | 1 |
@@ -107,8 +107,12 @@ Plan d'implantation 3D
 
 ## Budget estimé
 
-- Télévisions cathodique (x2 75$/px)
-- Lumières suspendues (x1 20$/px)
-- Bouquet fleurs blanches (x6 21$/px)
-- Tapis noir et blanc (x4 30$/px)
-- Total: 416$ (avant tax)
+| Nom                     | Prix | Quantité  |
+| ----------------------- | ---- | --------- |
+| Télévisions cathodiques | 75$  | 3         |
+| Bouquet fleurs blanches | 25$  | environ 6 |
+| Tapis noir et blanc     | 30$  | 4 mrcx    |
+| Plywood 4' x 8'         | 25$  | 2         |
+| Adaptateur              | 20$  | 4         |
+
+Total: 625$ (sans taxes)
