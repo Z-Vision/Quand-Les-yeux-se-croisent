@@ -39,6 +39,7 @@
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
 | Multiplexeur HDMI | X | 1 |
+| carte de capture video | X | 1 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
