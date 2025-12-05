@@ -64,9 +64,15 @@
 | Câble HDMI | ✔ | 7 |
 | Multiprise | X | 4 |
 
----
-
 ## Logiciels
+
+### - Midjourney
+
+Générer les médias nécessaires au projet grâce à l'intelligence artificiel
+
+### - Photoshop
+
+Modifier les médias générés afin de les rendent interactifs
 
 ### - Touch Designer
 
@@ -76,22 +82,31 @@ Connecter des capteurs ou données externes avec OSC
 
 ### - Pure Data
 
-Concevoir des systèmes audio interactifs avec OSC  
-Gérer des interactions basées avec les lumières avec OSC
+Concevoir des systèmes audio interactifs avec OSC
 
-### - Visual Studio Code
+### - Reaper
 
-Traduire les données réçues des capteurs en OSC
+Créer des expériences auditives interactives avec l'OSC
 
 ### - Hyper HDR
 
-Gérer des interactions avec les lumières avec OSC
+Connecter avec les lumières avec OBS
 
----
+### - OBS
+
+Relier les expériences visuelles interactive pour les lumières
+
+![](logiciels.png)
 
 ## Synoptique
 
-![](plan_fils.png)
+### Branchements
+
+![](synoptique.png)
+
+### Logiciels
+
+![](synoptique.png)
 
 ## Plan d'implantation
 
