@@ -119,8 +119,12 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
      alt="Pinterest: etherealtimecapsule, katlok.ai, Maeum, 3oey_.xoxo et Mosheh Taffe." 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
 
+<img src="./medias/yeux.png" 
+     alt="Pinterest: Supernova Iris - Iris Art Photography, MontanaOriginalArt, Sophiewaldo et animal eyes." 
+     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+
 **Références** <br>
-Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/.
+Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/, https://www.etsy.com/ca-fr/listing/1051044730/feuille-de-collage-dyeux-danimaux?epik=dj0yJnU9eTNQd3FFMktVNUdQWFNpUWFVX0NLQUJLNy15ZHlUMzgmcD0wJm49WXZPTTQ2eDg5bE9MTzBCNHN6d0RDQSZ0PUFBQUFBR2s2MDU4, https://ca.pinterest.com/pin/844565736412901370/, https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901910/.
 
 **_Images inspirantes_** <br>
 Les images sur lesquelles nous avons porté notre insipirations évoquent un univers poétique et immersif, en raison de l'aspect floral et des télévisions rétros. Ces images s’inspirent de l’esthétique d'installations lumineuses envahies de fleurs et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
