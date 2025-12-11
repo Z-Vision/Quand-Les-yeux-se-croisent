@@ -4,9 +4,9 @@
 
 ### Scène 1
 
-| Verbe action | Condition de déclenchement                                                                    | Effet visuel                                                                                                                                  | Effet sonore                                                                                                                                                                            | Effet interactif                                                         |
-| ------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Entrer       | Le visiteur suit le tapis vers l'exposition                                                   | Des empreintes d'animaux sur le tapis indiquent la direction                                                                                  | Une musique de fond organique légère boucle                                                                                                                                             | NA                                                                       |
+| Verbe action | Condition de déclenchement                                                                    | Effet visuel                                                                                                                 | Effet sonore                                                                                                                                                                            | Effet interactif                                                         |
+| ------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Entrer       | Le visiteur suit le tapis vers l'exposition                                                   | Des empreintes d'animaux sur le tapis indiquent la direction                                                                 | Une musique de fond organique légère boucle                                                                                                                                             | NA                                                                       |
 | Se déplacer  | S'approche du faisceau lumineux qui invitent le visiteur à se positioné devant les télévisons | Les vidéos des regards d'animaux se transforment en yeux d'humains avec un fondu du noir et les lumières changent de couleur | La même musique de fond joue après un son de carillon une fois la présence captée (synchronisé avec l'effet de transformation), en y incluant maintenant des textures sonores d'animaux | L'installation "reconnait" la présence du visiteur et passe à la scène 2 |
 
 ### Scène 2
@@ -34,12 +34,10 @@
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
 | Télévision cathodique | X | 4 |
-| Caméra | ✔ | 1 |
+| Caméra Sony A6500| ✔ | 1 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
-| Multiplexeur HDMI | X | 1 |
-| carte de capture video | X | 1 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
@@ -61,6 +59,7 @@
 | Câble coaxial | ✔ | 4 |
 | Adaptateur coaxial vers HDMI | X | 4 |
 | Câble DMX | ✔ | 2 |
+| Câble Ethernet | ✔ | 1 |
 | Câble HDMI | ✔ | 7 |
 | Multiprise | X | 4 |
 
