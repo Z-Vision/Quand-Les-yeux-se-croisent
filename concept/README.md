@@ -141,6 +141,7 @@ L’ambiance sonore repose sur des sons organiques et synthétiques créant une 
 [Ambiance 01](./ambiance-1.wav)
 [Ambiance 02](./ambiance-2.wav)
 [Ambiance 03](./ambiance-4.wav)
+[oiseaux](./oiseaux.mp3)
 
 ### Inspirations interactives
 
