@@ -37,7 +37,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 L’interacteur entre dans l’espace et suit un chemin déterminé par un tapis au sol qui l’invite à s’approcher progressivement des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne un regard humain puis celui d’un animal de manière continue. Ce morphing prend la forme d’une vague circulaire qui traverse l’image, accompagné d’une dégradation en pixels rappelant des cristaux, tandis que de légères distorsions glitch conservent l’esthétique rétro des téléviseurs d’époque. L’ensemble crée une atmosphère à la fois calme, étrange et hypnotique.
 
 <video width="640" height="360" controls>
-  <source src="inspi_effet_visuel.mp4" type="video/mp4">
+  <source src="inspi_effet_visuel.mp4" type="./video/mp4">
   Your browser does not support the video tag.
 </video>
 
