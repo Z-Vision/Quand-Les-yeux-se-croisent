@@ -5,7 +5,12 @@
 <!-- Inclure la vidéo du PowerPoint intial -->
 
 <!-- Méthode 1 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Slo5by2Edac?si=6lYwjXyznXRqxN1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Slo5by2Edac?si=Zk972C17qobhkN21"
+  title="YouTube video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 <!-- Méthode 2, plug legit -->
 <!--
@@ -31,7 +36,10 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 L’interacteur entre dans l’espace et suit un chemin déterminé par un tapis au sol qui l’invite à s’approcher progressivement des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne un regard humain puis celui d’un animal de manière continue. Ce morphing prend la forme d’une vague circulaire qui traverse l’image, accompagné d’une dégradation en pixels rappelant des cristaux, tandis que de légères distorsions glitch conservent l’esthétique rétro des téléviseurs d’époque. L’ensemble crée une atmosphère à la fois calme, étrange et hypnotique.
 
-![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
+<video width="640" height="360" controls>
+  <source src="inspi_effet_visuel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme grâce à un effet de métamorphose légèrement glitché qui affiche son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions et il se retrouve dans un face-à-face direct avec lui-même. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité des barres lumineuses autour de lui. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
