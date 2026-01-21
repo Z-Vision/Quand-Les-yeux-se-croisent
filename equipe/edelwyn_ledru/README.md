@@ -5,7 +5,7 @@
 ## Planification
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
-### Semaine 1
+### Semaine 1 refaire le plan d'implantation
 ### Semaine 2
 ### Semaine 3
 ### Semaine 4
