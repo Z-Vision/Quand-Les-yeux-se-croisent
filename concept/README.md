@@ -74,7 +74,7 @@ Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel
 
 <!--  sur le temps et la progression -->
 
-La progression de Quand les Yeux se Croisent dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour des télévisions rétro et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans, liés par un morphing fluide qui crée une vague visuelle traversant les images, accompagnée de dégradations en pixels et de légères distorsions glitch qui conservent l’esthétique rétro.
+La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour des télévisions rétro et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans, liés par un morphing fluide qui crée une vague visuelle traversant les images, accompagnée de dégradations en pixels et de légères distorsions glitch qui conservent l’esthétique rétro.
 
 Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
