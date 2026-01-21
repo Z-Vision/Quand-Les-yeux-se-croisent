@@ -86,8 +86,7 @@ Relier les expériences visuelles interactive pour les lumières
 
 Plans d'implantation 2D
 
-![](plan_plantation_01.png)
-![](plan_plantation_02.png)
+![](implantation_ver_2.jpg)
 
 Plan d'implantation 3D
 
