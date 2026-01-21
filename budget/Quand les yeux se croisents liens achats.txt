@@ -11,10 +11,6 @@ Fleurs: 21.69 + 18.76 + 19.79 + 13.98 = (74.22$ + taxes)
 - https://share.google/u8I9x0BAD65yCVkdW
 
 
-Tapis: (48.83$)
-
-- https://www.amazon.ca/MondayRug-carreaux-pelucheux-duveteux-antid%C3%A9rapant/dp/B0DWHPZX9Z/ref=sr_1_3_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JSVTRG0DTBP8&dib=eyJ2IjoiMSJ9.46ebdWwfXCk_Xy19rYgvoDzE8MzH5iVtt7nYrvY8f3NeJ1BHQK-dVl8AfE-7Jivx_d-DQ5aq8SPi6mRCsesFOPgcXTWpMgPUjA2edRM--WjUZLcYOqPT_5Lg3OTmleNleHt6wbMp7r-LtrwtmNrt9k4tCm-99Bl3J-YqmCNjqVK2UCw8UwG7GQCOhWRD4M6TzTmopaIqqT0ko1-R1eIp3yhnYaye7eiinCOUxxGuDDtenRCFS4xSU7sS_PbQY4JBlwi_Ax_kFOLiZC-0RRfcByKlsDE4MeiPfZFQ5ROOAeE.vgfkRh8UPINEUcCJhg7wADFmAtnZsHNt5MV0rTy7iTA&dib_tag=se&keywords=Tapis+noir+et+blanc&qid=1769022528&sprefix=tapis+noir+et+blanc%2Caps%2C114&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 
-
 
 Rayonnage: (268$ + taxes)
 
@@ -25,5 +21,5 @@ Rayonnage: (268$ + taxes)
 
 
 
-TOTAL AVANT TAXES: 391.05$
-TOTAL: 449.71$
+TOTAL AVANT TAXES: 340.22$
+TOTAL: 391.25$
