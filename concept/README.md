@@ -74,7 +74,11 @@ Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel
 
 <!--  sur le temps et la progression -->
 
-La progression de **Quand les Yeux se Croisent** s’étend sur environ quinze minutes, le temps pour l’interacteur de suivre le chemin qui amène jusqu'à l'exposition et de vivre une série de rencontres avec les télévisions rétro. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent entre les écrans, puis il s’approche et découvre l’interactivité : chaque fois qu’il est devant les écrans, les vidéos de deux télévisons aléatoires réagisent et affichent son propre regard en temps réel. À mesure qu’il passe le temps, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore en boucle composée d'effets sonores qui enveloppe l’espace. Le parcours se termine lorsque l'échange s'est terminé, et l’interacteur peut rester à l'écart quelques instants, immergé dans cet échange silencieux entre le réel et le virtuel, avant de quitter l’installation.
+La progression de Quand les Yeux se Croisent dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour des télévisions rétro et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans, liés par un morphing fluide qui crée une vague visuelle traversant les images, accompagnée de dégradations en pixels et de légères distorsions glitch qui conservent l’esthétique rétro.
+
+Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
+
+Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation. 
 
 ### L'aspect collectif
 
