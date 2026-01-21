@@ -12,7 +12,7 @@ Du 16 au 20 mars 2026.
 Installation interactive
 
 ### Site Web du projet :
-[Quand les yeux se croisent](https://z-vision.github.io/Quand-les-yeux-se-croisent/)
+(https://z-vision.github.io/Quand-les-yeux-se-croisent/)
 
 ### Prix :
 Gratuit
