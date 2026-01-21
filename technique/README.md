@@ -1,6 +1,7 @@
 # Technique
 
 ## Équipements
+
 **Équipement audiovisuel**
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
@@ -35,6 +36,7 @@
 | Multiprise | X | 4 |
 
 ## Logiciels
+
 ### - Midjourney
 
 Générer les médias nécessaires au projet grâce à l'intelligence artificiel
@@ -68,17 +70,16 @@ Relier les expériences visuelles interactive pour les lumières
 ![](logiciels.png)
 
 ## Synoptique
+
 ### Branchements
 
 ![](synoptique.png)
 
 ### Logiciels
 
-![](synoptique.png)
+![](plan_logiciels.png)
 
 ## Plan d'implantation
-
-![](plan_studio.png)
 
 Plans d'implantation 2D
 
@@ -87,15 +88,12 @@ Plans d'implantation 2D
 
 Plan d'implantation 3D
 
-![](plan_plantation_3D.png)
+![](plan_plantation_3D.jpeg)
 
 ## Budget estimé
-| Nom                     | Prix | Quantité  |
-| ----------------------- | ---- | --------- |
-| Télévisions cathodiques | 75$  | 3         |
-| Bouquet fleurs blanches | 25$  | environ 6 |
-| Tapis noir et blanc     | 30$  | 4 mrcx    |
-| Plywood 4' x 8'         | 25$  | 2         |
-| Adaptateur              | 20$  | 4         |
 
-Total: 625$ (sans taxes)
+| Nom      | Prix | Quantité |
+| -------- | ---- | -------- |
+| À revoir | $    | x        |
+
+Total:
