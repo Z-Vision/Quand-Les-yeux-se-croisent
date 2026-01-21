@@ -10,10 +10,10 @@
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
-| carte de capture hdmi | ✔ | 1 |
-| pile de camera filaire | ✔ | 1 |
-| switch ethernet poe | ✔ | 1 |
-| kit raspberry pie avec ecran (Guillaume) | ✔ | 8 |
+| Carte de capture hdmi | ✔ | 1 |
+| Pile de camera filaire | ✔ | 1 |
+| Switch ethernet poe | ✔ | 1 |
+| Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
@@ -27,7 +27,7 @@
 | Nom | Disponibilité | Quantité |
 |-----------------------------|---------------|----------|
 | Bouquet de fleurs blanches | ✔ | 6 |
-| Tapis noir et blanc | X | 4 |
+| Tissu noir | X | à determiner |
 
 **Câblage**
 | Nom | Disponibilité | Quantité |
