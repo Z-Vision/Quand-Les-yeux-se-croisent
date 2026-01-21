@@ -4,17 +4,21 @@
 **Équipement audiovisuel**
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
-| Télévision cathodique | X | 4 |
+| Télévision cathodique | X | 3 |
 | Caméra Sony A6500| ✔ | 1 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
+| carte de capture hdmi | ✔ | 1 |
+| pile de camera filaire | ✔ | 1 |
+| switch ethernet poe | ✔ | 1 |
+| kit raspberry pie avec ecran (Guillaume) | ✔ | 8 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
 |--------------------|---------------|----------|
 | Ampoule lumineuse | ✔ | 6 |
-| Lumière LED | ✔ | 2 |
+| Lumière LED | ✔ | 4 |
 | Lumière DMX | ✔ | 2 |
 | Spotlight | ✔ | 1 |
 
@@ -27,11 +31,11 @@
 **Câblage**
 | Nom | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
-| Câble coaxial | ✔ | 4 |
-| Adaptateur coaxial vers HDMI | X | 4 |
-| Câble DMX | ✔ | 2 |
-| Câble Ethernet | ✔ | 1 |
-| Câble HDMI | ✔ | 7 |
+| Câble rca | ✔ | 3 |
+| Adaptateur av vers HDMI | X | 3 |
+| Câble xlr | ✔ | 4 |
+| Câble Ethernet | ✔ | 9 |
+| Câble HDMI | ✔ | 3 |
 | Multiprise | X | 4 |
 
 ## Logiciels
