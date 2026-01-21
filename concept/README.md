@@ -24,7 +24,13 @@
 
 ## L'expérience
 
-L’expérience de **Quand les Yeux se Croisent** plonge le spectateur dans un espace où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. En se déplaçant entre les écrans, le visiteur se retrouve entouré de regards multiples qui semblent l’observer à leur tour. Lorsqu’il se place devant les écrans, ceux-ci réagisent : la vidéo transitionne et un œil humain apparaît. Ce dernier bouge son iris en fonction du déplacement du spectateur, se qui affectent aussi l'intensité des lumières de par et d'autre des écrans, établissant un contact direct et troublant. Ce jeu d’échanges visuels crée un dialogue silencieux entre le spectateur et les images, brouillant la frontière entre celui qui regarde et celui qui est regardé. Une bande sonore en loop et immersive, composée de textures subtiles d'animaux et de bruitage de leur environement, enveloppe l’espace et accentue cette sensation d’être plongé dans un monde suspendu où les regards se répondent.
+L’expérience de **Quand les Yeux se Croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
+
+Ce n’est que lorsqu’il entre dans une zone précise, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté. Les écrans réagissent alors : la vidéo transitionne et un œil humain apparaît, tandis que les regards d’animaux s’animent eux aussi, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, créant une sensation de surveillance partagée et synchronisée.
+
+Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, presque troublant. Le regard ainsi collecté est ensuite intégré à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
+
+Ce jeu d’échanges visuels instaure un dialogue silencieux, brouillant la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, diffusée en boucle, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
 
 ### Le parcours de l'interacteur
 
@@ -34,7 +40,13 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et suit un chemin déterminé par un tapis au sol qui l’invite à s’approcher progressivement des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne un regard humain puis celui d’un animal de manière continue. Ce morphing prend la forme d’une vague circulaire qui traverse l’image, accompagné d’une dégradation en pixels rappelant des cristaux, tandis que de légères distorsions glitch conservent l’esthétique rétro des téléviseurs d’époque. L’ensemble crée une atmosphère à la fois calme, étrange et hypnotique.
+L’interacteur entre dans l’espace et est libre de circuler autour des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
+
+Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque. L’ensemble instaure une atmosphère à la fois calme, étrange et hypnotique.
+
+Lorsque l’interacteur choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, puis affiché en temps réel sur les écrans. Après cette apparition, le regard enregistré est ajouté à la collection de regards déjà présente dans l’installation, se mêlant progressivement aux regards humains et animaux projetés en boucle.
+
+Ce processus renforce l’idée d’un échange continu, où chaque visiteur laisse une trace visuelle, brouillant la frontière entre celui qui observe et celui qui devient à son tour observé.
 
 ![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
 
