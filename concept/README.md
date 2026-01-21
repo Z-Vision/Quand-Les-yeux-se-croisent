@@ -40,7 +40,13 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et suit un chemin déterminé par un tapis au sol qui l’invite à s’approcher progressivement des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne un regard humain puis celui d’un animal de manière continue. Ce morphing prend la forme d’une vague circulaire qui traverse l’image, accompagné d’une dégradation en pixels rappelant des cristaux, tandis que de légères distorsions glitch conservent l’esthétique rétro des téléviseurs d’époque. L’ensemble crée une atmosphère à la fois calme, étrange et hypnotique.
+L’interacteur entre dans l’espace et est libre de circuler autour des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
+
+Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque. L’ensemble instaure une atmosphère à la fois calme, étrange et hypnotique.
+
+Lorsque l’interacteur choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, puis affiché en temps réel sur les écrans. Après cette apparition, le regard enregistré est ajouté à la collection de regards déjà présente dans l’installation, se mêlant progressivement aux regards humains et animaux projetés en boucle.
+
+Ce processus renforce l’idée d’un échange continu, où chaque visiteur laisse une trace visuelle, brouillant la frontière entre celui qui observe et celui qui devient à son tour observé.
 
 ![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
 
