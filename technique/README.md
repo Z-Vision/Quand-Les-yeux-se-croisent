@@ -102,6 +102,8 @@ Plan d'implantation 3D
 
 | Nom      | Prix | Quantité |
 | -------- | ---- | -------- |
-| À revoir | $    | x        |
+| Lumière | 0$ | 2        |
+| Rayonnage | 268$ | 2        |
+| Télévision cathodiques | ?$ | 4        |
 
-Total:
+Total: 391.25$
