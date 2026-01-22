@@ -48,7 +48,14 @@ Lorsque l’interacteur choisit de se placer sous le spot lumineux, son regard e
 
 Ce processus renforce l’idée d’un échange continu, où chaque visiteur laisse une trace visuelle, brouillant la frontière entre celui qui observe et celui qui devient à son tour observé.
 
-![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
+<iframe width="560" height="315"
+  src="https://youtu.be/5uMSe_Ma_uQ"
+  title="YouTube video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
+![Inspirations d'effets visuels]
 
 Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme grâce à un effet de métamorphose légèrement glitché qui affiche son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions et il se retrouve dans un face-à-face direct avec lui-même. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité des barres lumineuses autour de lui. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
@@ -78,7 +85,7 @@ La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le
 
 Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
-Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation. 
+Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation.
 
 ### L'aspect collectif
 

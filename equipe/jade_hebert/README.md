@@ -58,6 +58,7 @@ Tâches principales:
 
 Mise en ligne de la vidéo d'intention <br>
 Organiser des tests utilisateurs (Présentation publique pendant le trou à l'horaire) <br>
+Faire l'installation <br>
 Identifier les bugs <br>
 
 ### Semaine 6.5 - Tests & débogage
