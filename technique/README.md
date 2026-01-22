@@ -92,7 +92,7 @@ Créer des expériences auditives
 
 Plans d'implantation 2D
 
-![](implantation_ver_2.jpg)
+![](plantation_2d_ver_3.jpg)
 
 Plan d'implantation 3D
 
@@ -102,6 +102,8 @@ Plan d'implantation 3D
 
 | Nom      | Prix | Quantité |
 | -------- | ---- | -------- |
-| À revoir | $    | x        |
+| Lumière | 0$ | 2        |
+| Rayonnage | 268$ | 2        |
+| Télévision cathodiques | ?$ | 4        |
 
-Total:
+Total: 391.25$
