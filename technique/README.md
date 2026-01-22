@@ -104,5 +104,6 @@ Plan d'implantation 3D
 | ---------------------- | ------- | -------- |
 | Rayonnage              | 268$    | 1        |
 | Télévision cathodiques | max 60$ | 2        |
+| Fleurs | 74.22$ | 6        |
 
-Total: 511.25$
+Total: 513.55$
