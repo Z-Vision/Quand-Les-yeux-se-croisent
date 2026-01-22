@@ -6,23 +6,46 @@
 ## Planification
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
-### Semaine 1 : Réalisation de la préproduction
+### Semaine 1 : Préproduction
+- Définition du concept  
+- Scénarisation et planification  
+- Préparation technique et artistique  
 
-### Semaine 2 : Création du PowerPoint descriptif du projet
+### Semaine 2 : Présentation et intentions
+- Création du PowerPoint descriptif du projet  
+- Tournage de la vidéo d’intentions  
 
-### Semaine 3 : Début du tournage du projet
+### Semaine 3 : Début de production
+- Début du tournage principal  
+- Début de la personnalisation de l’apparence du site web  
+- Montage de la vidéo d’intentions  
 
-### Semaine 4 : Début de la personnalisation de l’apparence du site web et poursuite du tournage
+### Semaine 4 : Production et développement
+- Poursuite du tournage  
+- Avancement de la personnalisation du site web  
+- Tests de mise en ligne de contenu  
 
-### Semaine 5 : Finalisation de la personnalisation du site web et poursuite du tournage
+### Semaine 5 : Intégration du contenu
+- Poursuite du tournage  
+- Intégration des contenus vidéo sur le site web  
+- Ajustements visuels et fonctionnels du site  
 
-### Semaine 6 : Réalisation de la décoration de l’installation et poursuite du tournage
+### Semaine 6 : Installation et finalisation du tournage
+- Réalisation de la décoration de l’installation  
+- Finalisation du tournage  
+- Préparation du montage final  
 
-### Semaine 6.5 : Début du montage de la vidéo finale
+### Semaine 6.5 : Montage
+- Début du montage de la vidéo finale  
 
-### Semaine 7 : Finalisation de la vidéo finale et mise en ligne de l’ensemble des vidéos sur le site web
+### Semaine 7 : Finalisation et diffusion
+- Finalisation de la vidéo finale  
+- Mise en ligne de l’ensemble des vidéos sur le site web  
+- Vérifications finales  
 
-### Semaine 8 : Assurance du bon fonctionnement de l’installation durant la période d’exposition
+### Semaine 8 : Exposition
+- Installation et tests techniques  
+- Assurance du bon fonctionnement de l’installation durant la période d’exposition  
 
 
 
