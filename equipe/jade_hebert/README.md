@@ -25,7 +25,6 @@ Tâches principales:
 - Valider la faisabilité technique avec le Comité Technique <br>
 - Lister les besoins matériels <br>
 - Achat de l'équipement audiovisuel (Télévisions, rayonnage et câblage si besoin)<br>
-- Préparation de la vidéo d'intention <br>
 
 ### Semaine 3 — Maquette 1
 
@@ -39,7 +38,7 @@ Tâches principales:
 
 Tâches principales:
 
-- Mise en ligne de la vidéo d'intention <br>
+- Aide à la réalisation de la vidéo <br>
 - Installation et adaptation aux différentes plateformes <br>
 - Application de tests de contrôle de la qualité <br>
 
@@ -56,7 +55,7 @@ Tâches principales:
 
 Tâches principales:
 
-- Mise en ligne de la vidéo d'intention <br>
+- Mise en ligne de la bande-annonce <br>
 - Organiser des tests utilisateurs (Présentation publique pendant le trou à l'horaire) <br>
 - Faire l'installation <br>
 - Identifier les bugs <br>
@@ -85,6 +84,7 @@ Tâches principales:
 
 Tâches principales:
 
+- Mise en ligne de la vidéo documentation finale <br>
 - Faire la section exposition du site Web <br>
 - Présentation de l'oeuvre <br>
 
