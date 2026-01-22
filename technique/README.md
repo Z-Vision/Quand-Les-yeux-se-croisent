@@ -5,39 +5,40 @@
 **Équipement audiovisuel**
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
-| Télévision cathodique | X | 3 |
+| Télévision cathodique | X | 4 |
 | Caméra Sony A6500| ✔ | 1 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
-| Carte de capture hdmi | ✔ | 1 |
+| Carte de capture HDMI | ✔ | 1 |
 | Pile de camera filaire | ✔ | 1 |
-| Switch ethernet poe | ✔ | 1 |
+| Switch Ethernet poe | ✔ | 1 |
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
 |--------------------|---------------|----------|
-| Ampoule lumineuse | ✔ | 6 |
+| Ampoule lumineuse | X | à revoir |
 | Lumière LED | ✔ | 4 |
-| Lumière DMX | ✔ | 2 |
+| Lumière DMX | ✔ | 4 |
 | Spotlight | ✔ | 1 |
 
 **Accessoires et décor**
 | Nom | Disponibilité | Quantité |
 |-----------------------------|---------------|----------|
-| Bouquet de fleurs blanches | ✔ | 6 |
+| Bouquet de fleurs blanches | X | 6 |
 | Tissu noir | X | à determiner |
 
 **Câblage**
 | Nom | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
-| Câble rca | ✔ | 3 |
-| Adaptateur av vers HDMI | X | 3 |
-| Câble xlr | ✔ | 4 |
+| Câble RCA | à demandé | 4 |
+| Adaptateur AV vers HDMI / Display Port | X | 4 |
+| Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
-| Câble HDMI | ✔ | 3 |
-| Multiprise | X | 4 |
+| Câble HDMI | ✔ | 2 |
+| Câble Display Port | ✔ | 2 |
+| Multiprise | ✔ | 4 |
 
 ## Logiciels
 
@@ -70,6 +71,10 @@ Connecter avec les lumières avec OBS
 ### - OBS
 
 Relier les expériences visuelles interactive pour les lumières
+
+### - FL Studio
+
+Créer des expériences auditives
 
 ![](logiciels.png)
 
