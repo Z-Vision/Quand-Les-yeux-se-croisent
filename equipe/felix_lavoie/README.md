@@ -6,9 +6,19 @@
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
 ### Semaine 1   Réalisation de la préproduction
+
 ### Semaine 2   S'assurer du fonctionnement de la capture de l'oeil
-### Semaine 3   Programation raspeberry pie
+- l'oeil est capter ­       
+- les yeux sont sauvegarder     
+- l'ensemble fonctionnne dans l'intégration         
+
+### Semaine 3   Programation raspberry pie
+- comprendre la programation de Guillaume       
+- programmer le raspberry pie pour afficher ce que l'on veut        
+
 ### Semaine 4   Amélioration de la capture de l'oeil
+- améliorer la qualiter de la diffusiont
+- 
 ### Semaine 5   Instalation cable/lumière/audio
 ### Semaine 6   Intégration de la sauvegarde des yeux
 ### Semaine 6.5 Réglage de bugs
