@@ -7,23 +7,43 @@
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
 ### Semaine 1
-Planification des taches, mise a jour du site web, organisation de la production
+- Planification des tâches
+- Mise à jour du site web
+- Organisation de la production
+
 ### Semaine 2
-Faire les achats des decorations, tourner la video d'intention, Faire le powerpoint,
+- Faire les achats des décorations
+- Tourner la vidéo d’intention
+- Faire le PowerPoint
+
 ### Semaine 3
-Commencer la construction de l'installation, montage de la video d'intention
+- Commencer la construction de l’installation
+- Montage de la vidéo d’intention
+
 ### Semaine 4
-Faire les entrevues et ajouter les voix pour les videos
+- Faire les entrevues
+- Ajouter les voix pour les vidéos
+
 ### Semaine 5
-Creation de l'ambiance sonore et des sons interactifs
+- Création de l’ambiance sonore
+- Création des sons interactifs
+
 ### Semaine 6
-Creation des sons animaux, decoration de l'installation, montage de la video final
+- Création des sons d’animaux
+- Décoration de l’installation
+- Montage de la vidéo finale
+
 ### Semaine 6.5
-continuer la montage video, rassembler les sons pour l'ambiance sonore final
+- Continuer le montage vidéo
+- Rassembler les sons pour l’ambiance sonore finale
+
 ### Semaine 7
-s'assurer que tout marche , faire les finitions
+- S’assurer que tout marche
+- Faire les finitions
+
 ### Semaine 8
-Presenter l'installation
+- Présenter l’installation
+
 ## Journal de bord
 Cette section, complétée quotidiennement pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
 
