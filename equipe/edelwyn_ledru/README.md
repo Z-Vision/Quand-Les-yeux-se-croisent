@@ -5,15 +5,15 @@
 ## Planification
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
-### Semaine 1 refaire le plan d'implantation
-### Semaine 2
-### Semaine 3
-### Semaine 4
-### Semaine 5
-### Semaine 6
-### Semaine 6.5
-### Semaine 7
-### Semaine 8
+### Semaine 1 refaire le plan de plantation 2d
+### Semaine 2 Faire le logo + l'effet d'écran cathodique
+### Semaine 3 Faire l'intégration de l'effet morph et glitch dans Touchdesigner + tests et resolutions de problèmes
+### Semaine 4 prise de photo pour la documentation + powerpoint pour la vidéo promotionelle + tournage vidéo bande annonce 
+### Semaine 5 prise de photo pour la documentation + montage video bande annonce + positionner les boites et tissus
+### Semaine 6 prise de photo pour la documentation + installation
+### Semaine 6.5 Résolutions de problèmes
+### Semaine 7 Archivage
+### Semaine 8 présentation
 ## Journal de bord
 Cette section, complétée quotidiennement pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
 
