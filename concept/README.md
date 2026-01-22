@@ -48,7 +48,7 @@ Lorsque l’interacteur choisit de se placer sous le spot lumineux, son regard e
 
 Ce processus renforce l’idée d’un échange continu, où chaque visiteur laisse une trace visuelle, brouillant la frontière entre celui qui observe et celui qui devient à son tour observé.
 
-![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
+[![Inspirations d'effets visuels](https://i9.ytimg.com/vi_webp/5uMSe_Ma_uQ/mq2.webp?sqp=CKCWyssG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogOCh_MA8=&rs=AOn4CLB57LrAaTlFYwY89t7tN5JW91OjEw)](https://youtu.be/5uMSe_Ma_uQ)
 
 Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme grâce à un effet de métamorphose légèrement glitché qui affiche son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions et il se retrouve dans un face-à-face direct avec lui-même. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité des barres lumineuses autour de lui. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
@@ -78,7 +78,7 @@ La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le
 
 Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
-Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation. 
+Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation.
 
 ### L'aspect collectif
 
@@ -135,13 +135,15 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 ![](yeux.png)
 
 **Références** <br>
-Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/, https://www.etsy.com/ca-fr/listing/1051044730/feuille-de-collage-dyeux-danimaux?https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901370/, https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901910/.
+https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/, https://www.etsy.com/ca-fr/listing/1051044730/feuille-de-collage-dyeux-danimaux?https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901370/, https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901910/.
 
 **_Images inspirantes_** <br>
 Les images sur lesquelles nous avons porté notre insipirations évoquent un univers poétique et immersif, en raison de l'aspect floral et des télévisions rétros. Ces images s’inspirent de l’esthétique d'installations lumineuses envahies de fleurs et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
 
 **_Palette de couleurs_** <br>
 La palette se compose de tons pastels saturés. Ces teintes évoquent la douceur, le rêve et une atmosphère suspendue entre le réel et l’imaginaire.
+
+![](palette_couleur.png)
 
 **_Références multimédia_** <br>
 Les références sonores et visuelles s’inspirent d’ambiances électro-acoustiques immersives, de compositions en boucle, ainsi que d’univers visuels proches de l’art numérique contemplatif.
@@ -156,7 +158,7 @@ L’ambiance sonore repose sur des sons organiques et synthétiques créant une 
 [Ambiance 01](./ambiance-1.wav)
 [Ambiance 02](./ambiance-2.wav)
 [Ambiance 03](./ambiance-4.wav)
-[oiseaux](./oiseaux.mp3)
+[Bruitage d'oiseaux](./oiseaux.mp3)
 
 ### Inspirations interactives
 
@@ -171,6 +173,8 @@ https://www.scenocosme.com/iris.htm
 <img src="concept\inspo_01.png" 
      alt="Iris" 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+
+---
 
 Le projet **_TV Garden_** de Nam June Paik a inspiré la démarche en montrant comment des téléviseurs rétro peuvent devenir des éléments vivants d’un paysage. En mêlant images vidéo et environnement naturel, l’installation place le visiteur au centre d’un écosystème où technologie et nature se répondent, transformant sa perception de l’espace.
 <br><br>
