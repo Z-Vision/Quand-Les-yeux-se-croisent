@@ -9,7 +9,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 2   S'assurer du fonctionnement de la capture de l'oeil
 ### Semaine 3   Programation raspeberry pie
 ### Semaine 4   Amélioration de la capture de l'oeil
-### Semaine 5   Isntalation cable/lumière/audio
+### Semaine 5   Instalation cable/lumière/audio
 ### Semaine 6   Intégration de la sauvegarde des yeux
 ### Semaine 6.5 Réglage de bugs
 ### Semaine 7   paufinage
