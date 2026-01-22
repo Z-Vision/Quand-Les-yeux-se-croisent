@@ -6,15 +6,26 @@
 ## Planification
 Cette section, complétée lors de la première semaine, présente les tâches individuelles hebdomadaires prévues.
 
-### Semaine 1
-### Semaine 2
-### Semaine 3
-### Semaine 4
-### Semaine 5
-### Semaine 6
-### Semaine 6.5
-### Semaine 7
-### Semaine 8
+### Semaine 1 : Réalisation de la préproduction
+
+### Semaine 2 : Création du PowerPoint descriptif du projet
+
+### Semaine 3 : Début du tournage du projet
+
+### Semaine 4 : Début de la personnalisation de l’apparence du site web et poursuite du tournage
+
+### Semaine 5 : Finalisation de la personnalisation du site web et poursuite du tournage
+
+### Semaine 6 : Réalisation de la décoration de l’installation et poursuite du tournage
+
+### Semaine 6.5 : Début du montage de la vidéo finale
+
+### Semaine 7 : Finalisation de la vidéo finale et mise en ligne de l’ensemble des vidéos sur le site web
+
+### Semaine 8 : Assurance du bon fonctionnement de l’installation durant la période d’exposition
+
+
+
 ## Journal de bord
 Cette section, complétée quotidiennement pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
 
