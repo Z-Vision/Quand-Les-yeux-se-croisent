@@ -5,7 +5,7 @@
 **Équipement audiovisuel**
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
-| Télévision cathodique | X | 4 |
+| Télévision cathodique | 2 | 4 |
 | Caméra Sony A6500| ✔ | 1 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
@@ -27,13 +27,13 @@
 | Nom | Disponibilité | Quantité |
 |-----------------------------|---------------|----------|
 | Bouquet de fleurs blanches | X | 6 |
-| Tissu noir | X | à determiner |
+| Tissu noir | ✔ | à determiner |
 
 **Câblage**
 | Nom | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
 | Câble RCA | à demandé | 4 |
-| Adaptateur AV vers HDMI / Display Port | X | 4 |
+| Adaptateur AV vers HDMI / Display Port | à demandé | 4 |
 | Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
 | Câble HDMI | ✔ | 2 |
