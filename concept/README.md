@@ -131,13 +131,8 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
-<img src="./medias/moodboard.png" 
-     alt="Pinterest: etherealtimecapsule, katlok.ai, Maeum, 3oey_.xoxo et Mosheh Taffe." 
-     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
-
-<img src="./medias/yeux.png" 
-     alt="Pinterest: Supernova Iris - Iris Art Photography, MontanaOriginalArt, Sophiewaldo et animal eyes." 
-     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+![](moodboard.png)
+![](yeux.png)
 
 **Références** <br>
 Liens: https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/, https://www.etsy.com/ca-fr/listing/1051044730/feuille-de-collage-dyeux-danimaux?https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901370/, https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901910/.
@@ -176,7 +171,6 @@ https://www.scenocosme.com/iris.htm
 <img src="concept\inspo_01.png" 
      alt="Iris" 
      style="width:100%; max-width:900px; height:auto; border-radius:10px;">
-
 
 Le projet **_TV Garden_** de Nam June Paik a inspiré la démarche en montrant comment des téléviseurs rétro peuvent devenir des éléments vivants d’un paysage. En mêlant images vidéo et environnement naturel, l’installation place le visiteur au centre d’un écosystème où technologie et nature se répondent, transformant sa perception de l’espace.
 <br><br>

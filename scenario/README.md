@@ -1,5 +1,7 @@
 # Scénario
+
 Cette section présente le scénario de l'interactivité du projet.
+
 ## Scénarisation de l'interactivité
 
 ### Scène 1
@@ -21,6 +23,7 @@ Cette section présente le scénario de l'interactivité du projet.
 | Se déplace de gauche à droite     | Mouvements captés par le capteur (caméra)                                                    | Les yeux de deux télévisions, maintenant de l'interacteur, reflètent le mouvement de la personne, donc suit celle-ci                                                                                               | La même musique de fond joue avec les textures sonores d'animaux                                                               | L'installation traduit les gestes en visuels et lumières |
 | Se déplace de l'arrière à l'avant | Mouvements captés par le capteur (caméra)                                                    | Les yeux de deux télévisions, maintenant de l'interacteur, reflètent le mouvement de la personne, donc suit celle-ci si elle se rapproche ou s'éloigne                                                             | La même musique de fond joue avec les textures sonores d'animaux                                                               | L'installation traduit les gestes en visuels et lumières |
 | Sauter                            | Mouvements captés par le capteur (caméra) ou risque de perte de la présence de l'intéracteur | Les yeux de deux télévisions, maintenant de l'interacteur, reflètent le mouvement de la personne, mais peuvent se retransformer en animaux si le mouvemnent est trop rapide / le saut est trop haut pour le suivis | La même musique de fond joue avec les textures sonores d'animaux                                                               | L'installation traduit les gestes en visuels et lumières |
+| Se déplacer autour de l'oeuvre    | Aucune détection de la présence de l'intéracteur                                             | Les vidéos des regards d'animaux se transforment en yeux d'humains avec un fondu du noir et les lumières changent de couleur                                                                                       | La même musique de fond joue avec les textures sonores d'animaux                                                               | L'installation devient contemplative                     |
 
 ### Scène 3
 
