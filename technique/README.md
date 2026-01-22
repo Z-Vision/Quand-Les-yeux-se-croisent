@@ -100,10 +100,9 @@ Plan d'implantation 3D
 
 ## Budget estimé
 
-| Nom      | Prix | Quantité |
-| -------- | ---- | -------- |
-| Lumière | 0$ | 2        |
-| Rayonnage | 268$ | 2        |
-| Télévision cathodiques | ?$ | 4        |
+| Nom                    | Prix    | Quantité |
+| ---------------------- | ------- | -------- |
+| Rayonnage              | 268$    | 1        |
+| Télévision cathodiques | max 60$ | 2        |
 
-Total: 391.25$
+Total: 511.25$
