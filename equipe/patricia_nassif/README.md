@@ -13,12 +13,12 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2 : Présentation et intentions
 - Création du PowerPoint descriptif du projet  
-- Tournage de la vidéo d’intentions  
+- Tournage de la bande d'annonce  
 
 ### Semaine 3 : Début de production
 - Début du tournage principal  
 - Début de la personnalisation de l’apparence du site web  
-- Montage de la vidéo d’intentions  
+- Montage de la bande d'annonce
 
 ### Semaine 4 : Production et développement
 - Poursuite du tournage  
