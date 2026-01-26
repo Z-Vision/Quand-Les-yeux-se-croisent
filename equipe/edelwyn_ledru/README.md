@@ -8,22 +8,22 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 1 
 Refaire le plan de plantation 2d
 ### Semaine 2 
-Faire le logo 
+Faire le logo <br>
 Faire l'effet d'écran cathodique
 ### Semaine 3 
-Faire l'intégration de l'effet morph et glitch dans Touchdesigner
+Faire l'intégration de l'effet morph et glitch dans Touchdesigner <br>
 Tests et resolutions de problèmes
 ### Semaine 4 
-Prise de photo pour la documentation 
+Prise de photo pour la documentation <br>
 Faire powerpoint pour la vidéo promotionelle 
 Tournage vidéo bande annonce 
 ### Semaine 5 
-Prise de photo pour la documentation 
-Montage video bande annonce 
+Prise de photo pour la documentation <br>
+Montage video bande annonce <br>
 Peindre les boites
 ### Semaine 6 
-Prise de photo pour la documentation 
-Installation
+Prise de photo pour la documentation <br>
+Installation : boites et tissus
 ### Semaine 6.5 
 Résolutions de problèmes
 ### Semaine 7 
