@@ -8,21 +8,32 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 1   Réalisation de la préproduction
 
 ### Semaine 2   S'assurer du fonctionnement de la capture de l'oeil
-- l'oeil est capter ­       
-- les yeux sont sauvegarder     
-- l'ensemble fonctionnne dans l'intégration         
+- L'oeil est capté.         
+- Les yeux sont  sauvegardés        
+- L'ensemble  fonctionnedans l'intégration.     
 
 ### Semaine 3   Programation raspberry pie
-- comprendre la programation de Guillaume       
-- programmer le raspberry pie pour afficher ce que l'on veut        
+- Comprendre la programmation de Guillaume.       
+- Programmer le Raspberry Pi pour afficher ce que l'on veut.        
 
 ### Semaine 4   Amélioration de la capture de l'oeil
-- améliorer la qualiter de la diffusiont
-- 
+- Améliorer la qualité de la diffusion.        
+- S'assurer de toujours bien avoir le matériel que l'on est supposé avoir.      
+
 ### Semaine 5   Instalation cable/lumière/audio
+- Installer les câbles dans l'installation.       
+- Installer les lumières au plafond.      
+- Installer les speakers au plafond.      
+
 ### Semaine 6   Intégration de la sauvegarde des yeux
+- Améliorer la sauvegarde des yeux dans Touch.      
+- S'assurer de toujours bien avoir le matériel que l'on est supposé avoir.
+
 ### Semaine 6.5 Réglage de bugs
+
 ### Semaine 7   paufinage
+- Améliorer ce qui reste à améliorer.       
+
 ### Semaine 8   présenter
 ## Journal de bord
 Cette section, complétée quotidiennement pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
