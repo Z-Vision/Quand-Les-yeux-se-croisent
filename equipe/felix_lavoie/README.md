@@ -40,6 +40,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 ### Semaine 2
 #### Lundi
+- Coriger la planification
+- Création d'un fichier xl pour le matériel
 #### Mardi
 #### Mercredi
 #### Jeudi
