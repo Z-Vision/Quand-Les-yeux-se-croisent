@@ -57,14 +57,14 @@ Tâches principales:
 
 - Mise en ligne de la bande-annonce <br>
 - Organiser des tests utilisateurs (Présentation publique pendant le trou à l'horaire) <br>
-- Faire l'installation <br>
+- Débuter l'installation (maquette finale)<br>
 - Identifier les bugs <br>
 
 ### Semaine 6.5 - Tests & débogage
 
 Tâches principales:
 
-- Faire l'installation finale <br>
+- Finir l'installation (maquette finale) <br>
 - Vérifier la stabilité générale <br>
 - Prioriser les corrections <br>
 - Coordonner les correctifs <br>

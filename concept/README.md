@@ -26,9 +26,9 @@
 
 L’expérience de **Quand les Yeux se Croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
 
-Ce n’est que lorsqu’il entre dans une zone précise, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté. Les écrans réagissent alors : la vidéo transitionne et un œil humain apparaît, tandis que les regards d’animaux s’animent eux aussi, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, créant une sensation de surveillance partagée et synchronisée.
+Ce n’est que lorsqu’il entre dans une zone précise, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
 
-Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, presque troublant. Le regard ainsi collecté est ensuite intégré à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
+Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, d'un sentiment de collectif : le regard ainsi collecté s'intégre à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
 
 Ce jeu d’échanges visuels instaure un dialogue silencieux, brouillant la frontière entre celui qui observe et celui qui est observé. Une bande sonore immersive, diffusée en boucle, composée de textures subtiles inspirées de sons animaux et de bruitages de leur environnement, enveloppe l’espace et accentue la sensation d’évoluer dans un monde suspendu, où les regards se croisent, se répondent et se transforment.
 
@@ -40,19 +40,15 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et est libre de circuler autour des télévisions cathodiques disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
+L’interacteur entre dans l’espace et est libre de circuler autour des télévisions anciennes disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
 
-Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque. L’ensemble instaure une atmosphère à la fois calme, étrange et hypnotique.
+Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque.
 
-Lorsque l’interacteur choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, puis affiché en temps réel sur les écrans. Après cette apparition, le regard enregistré est ajouté à la collection de regards déjà présente dans l’installation, se mêlant progressivement aux regards humains et animaux projetés en boucle.
+![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
 
-Ce processus renforce l’idée d’un échange continu, où chaque visiteur laisse une trace visuelle, brouillant la frontière entre celui qui observe et celui qui devient à son tour observé.
+Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme en son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité lumineuse des barres LED autour de l;installation. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
-[![Inspirations d'effets visuels](https://i9.ytimg.com/vi_webp/5uMSe_Ma_uQ/mq2.webp?sqp=CKCWyssG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogOCh_MA8=&rs=AOn4CLB57LrAaTlFYwY89t7tN5JW91OjEw)](https://youtu.be/5uMSe_Ma_uQ)
-
-Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme grâce à un effet de métamorphose légèrement glitché qui affiche son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions et il se retrouve dans un face-à-face direct avec lui-même. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité des barres lumineuses autour de lui. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
-
-Après quelques instants, la séquence initiale des yeux humains et animaux reprend tout en intégrant désormais le regard de l’interacteur à la collection en boucle. À travers ce parcours, il vit une expérience introspective où son propre regard, absorbé par le dispositif, devient une partie du dialogue sensible entre l’humain, les animaux, la machine et l’image.
+Après quelques instants, la séquence initiale des yeux humains et animaux reprend tout en intégrant désormais le regard de l’interacteur à la collection en boucle. À travers ce parcours, il vit une expérience introspective où son propre regard, absorbé par le dispositif, devient une partie de l'oeuvre.
 
 ### L'espace
 
@@ -60,21 +56,19 @@ Après quelques instants, la séquence initiale des yeux humains et animaux repr
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-L’installation de **Quand les Yeux se Croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, ponctuée d’un chemin fantaisique qui guide le visiteur aux télévisions rétro disposées comme des balises visuelles. Autour d’elles, des fleurs et un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
+L’installation de **Quand les Yeux se Croisent** prend place dans le grand studio, transformé en un environnement immersif et contemplatif. L’espace réel est plongé dans une pénombre douce, où les télévisions rétro disposées comme des balises visuelles sont décorées de fleurs et où un éclairage tamisé créent une atmosphère poétique, presque irréelle, invitant à la lenteur et à l’observation.
 
-L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur. Lorsque ce dernier se positionne devant les écrans, son propre regard capté en temps réel s’y reflète, brouillant la limite entre présence physique et image numérique.
-
-Ainsi, le grand studio devient un espace de passage entre le réel et le virtuel : le spectateur évolue dans un lieu tangible mais traversé par la vie des écrans, où le monde physique et l’univers interactif se répondent et se prolongent mutuellement.
+L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : des regards d’animaux et d’humains y apparaissent, alternant et réagissant aux mouvements et aux regards du spectateur.
 
 <img src="concept\studios.svg" 
      alt="Plan du grand studio" 
-     style="width:100%; max-width:900px; height:auto; border-radius:10px;">
+     style="width:100%; height:auto; border-radius:10px;">
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour des télévisions rétro et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans, liés par un morphing fluide qui crée une vague visuelle traversant les images, accompagnée de dégradations en pixels et de légères distorsions glitch qui conservent l’esthétique rétro.
+La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour de l'installation et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans.
 
 Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
@@ -122,8 +116,6 @@ Choix de couleurs qui influenceront l’éclairage, les médias projetés, ou l�
 Références multimédia
 Vidéos, musiques ou sons, séquences animées qui capturent l’énergie ou la tonalité souhaitée pour l'installation.
 
-
-
 Textures et matériaux
 Échantillons ou représentations de matériaux tangibles qui seront utilisés dans l'installation (écrans, surfaces tactiles, objets physiques interactifs).
 
@@ -131,14 +123,13 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
-![](moodboard.png)
-![](yeux.png)
-
-**Références** <br>
-https://ca.pinterest.com/pin/844565736411450286/, https://ca.pinterest.com/pin/844565736411450282/, https://ca.pinterest.com/pin/844565736411452828/, https://ca.pinterest.com/pin/844565736411450330/, https://ca.pinterest.com/pin/844565736411468320/, https://www.etsy.com/ca-fr/listing/1051044730/feuille-de-collage-dyeux-danimaux?https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901370/, https://ca.pinterest.com/pin/844565736412901378/, https://ca.pinterest.com/pin/844565736412901910/.
-
 **_Images inspirantes_** <br>
 Les images sur lesquelles nous avons porté notre insipirations évoquent un univers poétique et immersif, en raison de l'aspect floral et des télévisions rétros. Ces images s’inspirent de l’esthétique d'installations lumineuses envahies de fleurs et de lumière colorée, créant une ambiance de rêve éveillé où la technologie rencontre la nature.
+
+![](moodboard.png)
+
+**Références** <br>
+https://ca.pinterest.com/pin/844565736411450286/ https://ca.pinterest.com/pin/844565736411450282/ https://ca.pinterest.com/pin/844565736411452828/ https://ca.pinterest.com/pin/844565736411450330/ https://ca.pinterest.com/pin/844565736411468320/ https://ca.pinterest.com/pin/844565736412901370/ https://ca.pinterest.com/pin/844565736412901910/ https://ca.pinterest.com/pin/742038476147385625/ https://ca.pinterest.com/pin/742038476146105931/
 
 **_Palette de couleurs_** <br>
 La palette se compose de tons pastels saturés. Ces teintes évoquent la douceur, le rêve et une atmosphère suspendue entre le réel et l’imaginaire.
