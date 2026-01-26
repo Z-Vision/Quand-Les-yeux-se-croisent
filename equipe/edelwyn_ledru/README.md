@@ -15,15 +15,15 @@ Faire l'intégration de l'effet morph et glitch dans Touchdesigner<br>
 Tests et resolutions de problèmes
 ### Semaine 4 
 Prise de photo pour la documentation<br>
-Faire powerpoint pour la vidéo promotionelle 
+Faire powerpoint pour la vidéo promotionelle<br>
 Tournage vidéo bande annonce 
 ### Semaine 5 
 Prise de photo pour la documentation<br>
 Montage video bande annonce<br>
-Peindre les boites
+Peindre les boîtes
 ### Semaine 6 
 Prise de photo pour la documentation<br>
-Installation : boites et tissus
+Installation : boîtes et tissus
 ### Semaine 6.5 
 Résolutions de problèmes
 ### Semaine 7 
@@ -35,7 +35,7 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 ### Semaine 2
 #### Lundi
-Correction planification et completer le plan plantation 2d
+Correction planification et compléter le plan plantation 2d
 #### Mardi
 #### Mercredi
 #### Jeudi
