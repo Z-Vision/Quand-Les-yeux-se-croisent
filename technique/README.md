@@ -6,12 +6,12 @@
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
 | Télévision cathodique | 2 | 4 |
-| Caméra Sony A6500| ✔ | 1 |
+| Caméra Sony A6500| ✔ | 2 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
-| Carte de capture HDMI | ✔ | 1 |
-| Pile de camera filaire | ✔ | 1 |
+| Carte de capture HDMI | ✔ | 2 |
+| Pile de camera filaire | ✔ | 2 |
 | Switch Ethernet poe | ✔ | 1 |
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 
