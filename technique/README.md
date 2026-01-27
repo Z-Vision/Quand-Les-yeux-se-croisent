@@ -92,7 +92,7 @@ Créer des expériences auditives
 
 Plans d'implantation 2D
 
-![](plan_plantation_ver_5.jpg)
+![](plan_plantation_2d_ver_6.jpg)
 
 Plan d'implantation 3D
 
