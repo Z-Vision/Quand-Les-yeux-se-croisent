@@ -43,6 +43,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 - Coriger la planification
 - Création d'un fichier xl pour le matériel
 #### Mardi
+- Validation du projet.
+- validation de la planafication.
 #### Mercredi
 #### Jeudi
 #### Vendredi
