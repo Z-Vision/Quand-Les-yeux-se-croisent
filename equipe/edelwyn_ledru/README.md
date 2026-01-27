@@ -37,7 +37,8 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 ### Semaine 2
 #### Lundi
 Correction planification et compléter le plan plantation 2d
-#### Mardi
+#### Mardi 
+Création du logo Émersia 
 #### Mercredi
 #### Jeudi
 #### Vendredi
