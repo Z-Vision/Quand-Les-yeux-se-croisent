@@ -36,6 +36,7 @@
 | Adaptateur AV vers HDMI / Display Port | à demandé | 4 |
 | Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
+| Câble Micro USB | ✔ | 2 |
 | Câble HDMI | ✔ | 2 |
 | Câble Display Port | ✔ | 2 |
 | Multiprise | ✔ | 4 |
