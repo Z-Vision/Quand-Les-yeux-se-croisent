@@ -17,12 +17,13 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 3 : Début de production
 - Début du tournage principal  
-- Commencer la bande d'annonce
+- Continuer et ou finir la bande d'annonce
 
 ### Semaine 4 : Production et développement
 - Poursuite du tournage  
 - Personnalisation du site web  
 - Tests de mise en ligne de contenu  
+- Finir la bande d'annonce.
 
 ### Semaine 5 : Intégration du contenu
 - Poursuite du tournage  
