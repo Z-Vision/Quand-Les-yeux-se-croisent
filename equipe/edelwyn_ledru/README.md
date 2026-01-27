@@ -18,10 +18,9 @@ maquette 1
 ### Semaine 4 
 Prise de photo pour la documentation<br>
 Faire powerpoint pour la vidéo promotionelle<br>
-Tournage vidéo bande annonce 
+Montage vidéo bande annonce 
 ### Semaine 5 
 Prise de photo pour la documentation<br>
-Montage video bande annonce<br>
 Peindre les boîtes
 ### Semaine 6 
 Prise de photo pour la documentation<br>
