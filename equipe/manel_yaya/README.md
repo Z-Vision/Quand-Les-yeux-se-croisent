@@ -13,7 +13,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 
 ### Semaine 2
 - Faire les achats des décorations
-- Tourner la vidéo d’intention
+- Tourner la vidéo d'annonce
 - Faire le PowerPoint
 
 ### Semaine 3
