@@ -10,7 +10,7 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 ### Semaine 2   S'assurer du fonctionnement de la capture de l'oeil
 - L'oeil est capté.         
 - Les yeux sont  sauvegardés        
-- L'ensemble  fonctionnedans l'intégration.     
+- L'ensemble  fonctionne dans l'intégration.     
 
 ### Semaine 3   Programation raspberry pie
 - Comprendre la programmation de Guillaume.       
