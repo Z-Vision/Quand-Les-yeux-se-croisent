@@ -12,7 +12,9 @@ Faire le logo<br>
 Faire l'effet d'écran cathodique
 ### Semaine 3 
 Faire l'intégration de l'effet morph et glitch dans Touchdesigner<br>
-Tests et resolutions de problèmes
+Début tournage bande-annonce<br>
+Tests et resolutions de problèmes<br>
+maquette 1
 ### Semaine 4 
 Prise de photo pour la documentation<br>
 Faire powerpoint pour la vidéo promotionelle<br>
