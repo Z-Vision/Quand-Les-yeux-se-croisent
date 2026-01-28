@@ -73,6 +73,10 @@ Créer des expériences auditives interactives avec l'OSC
 
 Connecter avec les lumières avec OBS
 
+### - QLC +
+
+Faire des animations simples pour les lumières DMX
+
 ### - OBS
 
 Relier les expériences visuelles interactive pour les lumières
@@ -88,10 +92,6 @@ Créer des expériences auditives
 ### Branchements
 
 ![](synoptique.png)
-
-### Logiciels
-
-![](plan_logiciels.png)
 
 ## Plan d'implantation
 
