@@ -26,7 +26,7 @@
 
 L’expérience de **Quand les Yeux se Croisent** plonge le spectateur dans un espace immersif où des télévisions rétro diffusent en boucle des regards d’animaux et d’humains. Le visiteur peut librement circuler autour du mur d’écrans, se retrouvant entouré de regards multiples qui semblent l’observer à leur tour.
 
-Ce n’est que lorsqu’il entre dans une zone précise, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
+Ce n’est que lorsqu’il entre dans une zone précise de chaque bord de l'installation, marquée par un éclairage directionnel (spot lighting), que l’interaction s’active pleinement. Sous cette lumière, le regard du spectateur peut être capté par une caméra dissimulée. Les écrans réagissent en faisant apparaître l'œil du spectateur, suivant en temps réel les déplacements du spectateur. Les iris se déplacent en fonction de sa position, et l'ambiance sonore change également.
 
 Ces variations influencent également l’intensité lumineuse de part et d’autre des écrans, renforçant la sensation d’un contact direct, d'un sentiment de collectif : le regard ainsi collecté s'intégre à la collection de regards projetée dans l’installation, faisant du spectateur une partie active de l’œuvre.
 
@@ -40,13 +40,13 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur entre dans l’espace et est libre de circuler autour des télévisions anciennes disposées au mur. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
+L’interacteur entre dans l’espace et est libre de circuler autour des télévisions anciennes disposées comme une sculpture rectangulaire. Sur les écrans défilent en boucle des regards d’animaux et d’humains, liés entre eux par un effet de morphing fluide qui alterne continuellement entre un regard humain et celui d’un animal.
 
 Ce morphing prend la forme d’une vague circulaire traversant l’image, accompagnée d’une dégradation en pixels évoquant des cristaux, tandis que de légères distorsions glitch préservent l’esthétique rétro des téléviseurs d’époque.
 
 ![Inspirations d'effets visuels](inspi_effet_visuel.mp4)
 
-Lorsqu’il s’arrête sous la lumière jaune principale, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme en son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité lumineuse des barres LED autour de l;installation. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
+Lorsqu’il s’arrête sous les lumières jaunes, d'un bord ou l'autre de la structure, l’interacteur fait face aux télévisions. Une caméra capte alors son regard et l’image à l’écran se transforme en son propre regard en temps réel. Son iris devient l’image centrale projetée sur deux des télévisions. S’il se déplace de gauche à droite, son iris se déplace aussi et modifie l’intensité lumineuse des barres LED autour de l'installation. Avant son arrivée, ces barres pulsaient selon un rythme doux dans des couleurs variées qui évoquaient une respiration visuelle.
 
 Après quelques instants, la séquence initiale des yeux humains et animaux reprend tout en intégrant désormais le regard de l’interacteur à la collection en boucle. À travers ce parcours, il vit une expérience introspective où son propre regard, absorbé par le dispositif, devient une partie de l'oeuvre.
 
@@ -70,7 +70,7 @@ L’espace virtuel, quant à lui, se déploie à l’intérieur des écrans : de
 
 La progression de **Quand les Yeux se Croisent** dure environ quinze minutes, le temps pour l’interacteur de circuler librement autour de l'installation et de vivre une série de rencontres avec les regards projetés. D’abord, il observe à distance les regards d’animaux et d’humains qui alternent sur les écrans.
 
-Lorsqu’il choisit de se placer sous le spot lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
+Lorsqu’il choisit de se placer sous un des deux spots lumineux, son regard est capté par le dispositif, affiché en temps réel sur les écrans, puis ajouté à la collection de regards déjà présente dans l’installation. Au fil de l’expérience, les interactions deviennent plus naturelles et contemplatives, soutenues par une bande sonore immersive en boucle composée d’effets sonores subtils inspirés des environnements animaux.
 
 Le parcours se termine lorsque l’échange entre le visiteur et les regards projetés s’achève. L’interacteur peut alors rester quelques instants immergé dans ce dialogue silencieux entre le réel et le virtuel, avant de quitter l’installation.
 

@@ -6,12 +6,12 @@
 | Nom | Disponibilité | Quantité |
 |-------------------------|---------------|----------|
 | Télévision cathodique | 2 | 4 |
-| Caméra Sony A6500| ✔ | 1 |
+| Caméra Sony A6500| ✔ | 2 |
 | Ordinateur | ✔ | 1 |
 | Haut-parleurs | ✔ | 2 |
 | Carte de son | ✔ | 1 |
-| Carte de capture HDMI | ✔ | 1 |
-| Pile de camera filaire | ✔ | 1 |
+| Carte de capture HDMI | ✔ | 2 |
+| Pile de camera filaire | ✔ | 2 |
 | Switch Ethernet poe | ✔ | 1 |
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 
@@ -36,6 +36,7 @@
 | Adaptateur AV vers HDMI / Display Port | à demandé | 4 |
 | Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
+| Câble Micro USB | ✔ | 2 |
 | Câble HDMI | ✔ | 2 |
 | Câble Display Port | ✔ | 2 |
 | Multiprise | ✔ | 4 |
@@ -92,7 +93,7 @@ Créer des expériences auditives
 
 Plans d'implantation 2D
 
-![](plan_plantation_ver_5.jpg)
+![](plan_plantation_2d_ver_6.jpg)
 
 Plan d'implantation 3D
 

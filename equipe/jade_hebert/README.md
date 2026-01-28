@@ -94,9 +94,13 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 ### Semaine 2
 
-#### Lundi
-
 #### Mardi
+
+| Heure | Tâches à faire                                                              |
+| ----- | --------------------------------------------------------------------------- |
+| 09:00 | Présentation du projet aux ensignants                                       |
+| 14:30 | Réunion d’alignement d’équipe (son et logo)                                 |
+| 16:00 | Correction du site web avec les modifications apportées par les professeurs |
 
 #### Mercredi
 
