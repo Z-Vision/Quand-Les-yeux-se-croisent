@@ -7,6 +7,7 @@
 |-------------------------|---------------|----------|
 | Télévision cathodique | ✔ | 1 |
 | Caméra Sony A6500| ✔ | 2 |
+| trepied| ✔ | 2 |
 | Clef touch designer | ✔ | 1 |
 | Ordinateur | ✔ | 1 |
 | Laptop | ✔ | 1 |
