@@ -19,6 +19,7 @@
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 | Raspberry pie 4 ndi (Guillaume) | ✔ | 4 |
 | pole extensible avec pince mathews | ✔ | 4 |
+| Casque écouteur | ✔s | 1 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
