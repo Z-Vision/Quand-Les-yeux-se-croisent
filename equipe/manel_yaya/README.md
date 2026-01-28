@@ -12,30 +12,31 @@ Cette section, complétée lors de la première semaine, présente les tâches i
 - Organisation de la production
 
 ### Semaine 2
-- Faire les achats des décorations
-- Tourner la vidéo d'annonce
+- Faire les achats des objets de la direction artistique
 - Faire le PowerPoint
+- Création des ambiances sonores
 
 ### Semaine 3
 - Commencer la construction de l’installation
-- Montage de la vidéo d’intention
+- Création des sons interactifs de captation
 
 ### Semaine 4
 - Faire les entrevues
 - Ajouter les voix pour les vidéos
+- Création des sons d'environnement (vent, mer, feuilles)
 
 ### Semaine 5
-- Création de l’ambiance sonore
-- Création des sons interactifs
+- Tourner la vidéo d'annonce
+- Création des sons d’animaux
 
 ### Semaine 6
-- Création des sons d’animaux
-- Décoration de l’installation
+- Montage de la vidéo d'annonce
 - Montage de la vidéo finale
+- Rassembler les sons pour l’ambiance sonore finale
 
 ### Semaine 6.5
 - Continuer le montage vidéo
-- Rassembler les sons pour l’ambiance sonore finale
+- Direction artistique de l’installation
 
 ### Semaine 7
 - S’assurer que tout marche
