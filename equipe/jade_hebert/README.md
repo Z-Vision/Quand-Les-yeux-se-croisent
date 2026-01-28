@@ -118,6 +118,16 @@ Cette section, complétée quotidiennement pendant l’exécution du projet, doc
 
 #### Mercredi
 
+| Heure | Tâches à faire                                                |
+| ----- | ------------------------------------------------------------- |
+| 10:00 | Réunion d’alignement d’équipe (quoi faire pour la maquette 1) |
+| 11:00 | Rencontre avec Guillaume pour l'équipement                    |
+| :00   |                                                               |
+
+### Idéalisation de la maquette 1
+
+![](maquette1.jpeg)
+
 #### Jeudi
 
 #### Vendredi
