@@ -18,6 +18,7 @@
 | Switch Ethernet poe | ✔ | 1 |
 | Kit raspberry pie avec écran (Guillaume) | ✔ | 8 |
 | Raspberry pie 4 ndi (Guillaume) | ✔ | 4 |
+| pole extensible avec pince mathews | ✔ | 4 |
 
 **Éclairage**
 | Nom | Disponibilité | Quantité |
@@ -35,7 +36,7 @@
 **Câblage**
 | Nom | Disponibilité | Quantité |
 |-------------------------------|---------------|----------|
-| Câble RCA | à demandé | 4 |
+| Câble RCA | ✔ | 1 |
 | Adaptateur AV vers HDMI / Display Port | ✔ | 1 |
 | Câble XLR | ✔ | 4 |
 | Câble Ethernet | ✔ | 9 |
